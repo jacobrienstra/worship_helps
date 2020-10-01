@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/08/planning_contem.html 
 category:
   - Ordo
 author: RonRienstra

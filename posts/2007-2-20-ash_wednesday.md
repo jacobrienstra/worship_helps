@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2007/02/ash_wednesday.html 
 category:
   - Ritual
 author: RonRienstra

@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/09/one_more_on_sin.html 
 category:
   - Music
 author: AndrewDonaldson

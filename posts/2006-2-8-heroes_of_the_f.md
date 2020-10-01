@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/02/heroes_of_the_f.html 
 category:
   - Visual Art
 author: RonRienstra

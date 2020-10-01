@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/04/multilingual_lo.html 
 category:
   - Prayer
 author: johndwilliams

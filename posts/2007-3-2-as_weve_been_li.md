@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2007/03/as_weve_been_li.html 
 category: []
 author: AndrewDonaldson
 authorEmail: seraph@pathcom.com

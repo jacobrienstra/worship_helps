@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/04/confessions_of_.html 
 category:
   - Music
 author: johnthornburg

@@ -7,7 +7,6 @@ let stream = mtif("blog.txt");
 let service = new TurndownService();
 
 stream.on("error", function (err) {
-  console.log("err");
   console.log(err);
 });
 
@@ -18,6 +17,10 @@ stream.on("entry", function (entry) {
     if (entry.extendedBody) {
       body += "\n***\n" + service.turndown(entry.extendedBody);
     }
+    let permalink = entry.data.uniqueUrl.replace(
+      "https://worshiphelps.blogs.com",
+      ""
+    );
     let path = entry.data.uniqueUrl
       .split("/")
       .pop()
@@ -26,6 +29,8 @@ stream.on("entry", function (entry) {
     fs.writeFileSync(
       `posts/${year}-${month}-${date}-${path}.md`,
       `---
+layout: post.pug
+permalink: ${permalink}
 ${jsyaml.safeDump(
   Object.assign(entry.data, {
     comments: entry.comments,

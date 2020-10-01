@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2020/04/coronatide-liturgylitany-for-disinfecting-a-cell-phone.html 
 category:
   - Prayer
   - Ritual

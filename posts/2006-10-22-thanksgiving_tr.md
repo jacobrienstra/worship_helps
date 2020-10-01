@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/10/thanksgiving_tr.html 
 category:
   - Music
   - Ordo

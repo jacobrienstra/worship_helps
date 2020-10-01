@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/06/childrens_hymns.html 
 category:
   - Music
 author: AndrewDonaldson

@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/02/drama_in_worshi.html 
 category:
   - Drama
 author: RonRienstra

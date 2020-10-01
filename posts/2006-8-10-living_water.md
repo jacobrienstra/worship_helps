@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/08/living_water.html 
 category:
   - Alt
   - Ritual

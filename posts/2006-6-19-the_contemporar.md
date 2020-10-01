@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/06/the_contemporar.html 
 category:
   - Music
   - Prayer

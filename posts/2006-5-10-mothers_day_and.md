@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/05/mothers_day_and.html 
 category:
   - Ritual
   - Theme

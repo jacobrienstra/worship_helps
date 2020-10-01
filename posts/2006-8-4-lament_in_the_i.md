@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/08/lament_in_the_i.html 
 category:
   - Prayer
 author: RonRienstra

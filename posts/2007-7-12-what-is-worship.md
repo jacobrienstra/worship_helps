@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2007/07/what-is-worship.html 
 category:
   - Ordo
 author: Guyscott

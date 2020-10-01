@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/04/deck_the_walls_.html 
 category:
   - Alt
   - Music

@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/05/_spin_the_bottl.html 
 category:
   - Alt
   - Ritual

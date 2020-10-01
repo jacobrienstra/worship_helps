@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/02/picking_the_tex.html 
 category:
   - Lectionary Texts
 author: RonRienstra

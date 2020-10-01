@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/06/igniting_a_sens.html 
 category:
   - Alt
 author: Guyscott

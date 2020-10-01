@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/10/reformation_or_.html 
 category: []
 author: Chippo
 authorEmail: candrus@ctr.pcusa.org

@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/08/7_worship_leadi.html 
 category:
   - Music
   - Ordo

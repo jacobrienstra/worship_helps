@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/01/technology_musi.html 
 category:
   - Music
   - Technology

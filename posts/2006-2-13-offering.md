@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/02/offering.html 
 category:
   - Ritual
 author: RonRienstra

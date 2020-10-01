@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/07/intercessory_pr.html 
 category:
   - Prayer
 author: RonRienstra

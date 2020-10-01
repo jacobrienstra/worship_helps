@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2007/01/emerging_confes.html 
 category:
   - Prayer
 author: Tom Trinidad

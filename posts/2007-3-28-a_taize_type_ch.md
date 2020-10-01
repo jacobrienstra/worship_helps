@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2007/03/a_taize_type_ch.html 
 category:
   - Music
 author: clayschmit

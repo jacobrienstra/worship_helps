@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/05/singing_penteco.html 
 category:
   - Music
 author: AndrewDonaldson

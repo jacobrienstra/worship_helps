@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/12/john_mayer_and_.html 
 category:
   - Church Year
 author: Chippo

@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/02/where_to_put_th.html 
 category:
   - Ordo
 author: RonRienstra

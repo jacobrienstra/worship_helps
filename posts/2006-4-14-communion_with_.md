@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/04/communion_with_.html 
 category:
   - Ritual
 author: KendraHotz

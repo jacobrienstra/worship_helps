@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/10/what_must_we_no.html 
 category:
   - Ordo
 author: RonRienstra

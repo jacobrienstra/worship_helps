@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/05/an_experiment_i.html 
 category:
   - Alt
   - Prayer

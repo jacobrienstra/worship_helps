@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/11/hymns_and_ccm_h.html 
 category:
   - Music
 author: AndrewDonaldson

@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/02/worship_helps.html 
 category:
   - Ritual
 author: Tom Trinidad

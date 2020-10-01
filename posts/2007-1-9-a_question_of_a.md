@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2007/01/a_question_of_a.html 
 category:
   - Music
   - Words

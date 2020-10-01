@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/04/shared_leadersh.html 
 category:
   - Alt
   - Ritual

@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2008/06/the-whole-world.html 
 category:
   - Music
   - Prayer
@@ -20,9 +22,9 @@ keywords:
 
 No, the world belongs to God.  It has been entrusted to us, yes, but it is ultimately in God’s hands.  What a good thing for type A people to remember every day!
 
-I let this lesson guide our evening prayer a few weeks ago as I led worship at the hard-working [General Synod](http://www.rca.org/NETCOMMUNITY/Page.aspx?pid=4155&srcid=2059) of the [Reformed Church in America](http://www.rca.org/NETCOMMUNITY/Page.aspx?pid=183&srcid=2183).  We decided each night to let a particular song shape and direct our evening prayers.  So we would sing a verse and then let that verse prompt particular petitions and thanks.  So, for example, one evening we sang verses from [_Bless the Lord, My Soul_](http://www.sacramentors.org/audio/bless.mp3), the setting of [Psalm 103](http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&word=psalms+103&section=0&version=nrs&language=en) from [Taizé](http://taize.fr/).  Another evening we sang four verses from A[ll Praise to Thee, My God, This Night](http://www.cyberhymnal.org/htm/a/l/allprais.htm).  But my favorite was the evening we began and ended with the old gospel favorite “[He’s Got the Whole World In His Hands](http://www.last.fm/music/Nina+Simone/_/He%27s+Got+the+Whole+World+in+His+Hands).”
+I let this lesson guide our evening prayer a few weeks ago as I led worship at the hard-working [General Synod](http://www.rca.org/NETCOMMUNITY/Page.aspx?pid=4155&srcid=2059) of the [Reformed Church in America](http://www.rca.org/NETCOMMUNITY/Page.aspx?pid=183&srcid=2183).  We decided each night to let a particular song shape and direct our evening prayers.  So we would sing a verse and then let that verse prompt particular petitions and thanks.  So, for example, one evening we sang verses from [_Bless the Lord, My Soul_](http://www.sacramentors.org/audio/bless.mp3), the setting of [Psalm 103](http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&word=psalms+103&section=0&version=nrs&language=en) from [Taizé](http://taize.fr/).  Another evening we sang four verses from A[ll Praise to Thee, My God, This Night](http://www.cyberhymnal.org/htm/a/l/allprais.htm).  But my favorite was the evening we began and ended with the old gospel favorite “[He’s Got the Whole World In His Hands](http://www.last.fm/music/Nina+Simone/_/He%27s+Got+the+Whole+World+in+His+Hands).” 
 
-Planning the service, I wanted to get rid of the repeated masculine pronoun, and thought to change the lyric from “He’s” and “his” to “You’ve” and “your” (a far less clunky tweak than alternating genders or using “God’s” throughout). This had the surprising – and wonderful – effect of altering the character of the song altogether.  It shifted it from testimony to prayer; from speaking about God’s providence to speaking to God, rooting our petitions, both spoken and silent, in a confident declaration of God’s power and love: “You’ve got the whole world in your hands.”
+Planning the service, I wanted to get rid of the repeated masculine pronoun, and thought to change the lyric from “He’s” and “his” to “You’ve” and “your” (a far less clunky tweak than alternating genders or using “God’s” throughout). This had the surprising – and wonderful – effect of altering the character of the song altogether.  It shifted it from testimony to prayer; from speaking about God’s providence to speaking to God, rooting our petitions, both spoken and silent, in a confident declaration of God’s power and love: “You’ve got the whole world in your hands.” 
 
 Musically, I played a James Taylor-esque accompaniment (think “[Secret of Life](http://www.youtube.com/watch?v=qzpbl2LgHXU)” -- Key of A, capo III), and even wrote a couple extra lines, riffing on the old hymn “[Sing Praise to God who Reigns Above](http://www.cyberhymnal.org/htm/s/p/sptgowra.htm)” as a break leading into the final chorus.
 
@@ -31,16 +33,16 @@ For the shape of the prayer itself, we allowed the song’s verses to suggest th
 Full text of the prayer, lead sheet (click on the thumbnail), and MP3 demo after the jump.
 ***
 SUNG: **You’ve got the whole world in your hands…**  
-Gracious God, we pray today for this whole world,
-  created good and beautiful,
-     lost and broken by our sin,
+Gracious God, we pray today for this whole world,      
+  created good and beautiful,         
+     lost and broken by our sin,            
         loved and redeemed by you in Jesus Christ.
 
 \*\*\* silence \*\*\*
 
 _Creation_  
 Creator God, we bless you tonight for your care of the natural world –  
-  for the wind and the rain,
+  for the wind and the rain,   
      for the sunshine and water that sustains the earth,  
          for the food that sustains our bodies,  
             for your presence that sustains our souls.  

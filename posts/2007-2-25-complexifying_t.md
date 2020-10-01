@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2007/02/complexifying_t.html 
 category:
   - Daily Prayer
   - Ordo

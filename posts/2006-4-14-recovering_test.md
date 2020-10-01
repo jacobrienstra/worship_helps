@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/04/recovering_test.html 
 category:
   - Ritual
 author: KendraHotz

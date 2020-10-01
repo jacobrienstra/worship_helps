@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/02/come_to_the_tab.html 
 category:
   - Music
   - Prayer

@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2007/02/no_matter_how_y.html 
 category: []
 author: Brad Andrews
 authorEmail: theandrewsfam@gmail.com

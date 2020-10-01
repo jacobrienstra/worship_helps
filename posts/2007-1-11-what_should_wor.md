@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2007/01/what_should_wor.html 
 category:
   - Music
 author: Brad Andrews

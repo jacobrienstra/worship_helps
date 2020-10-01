@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/07/praise_my_soul_.html 
 category:
   - Music
 author: RonRienstra

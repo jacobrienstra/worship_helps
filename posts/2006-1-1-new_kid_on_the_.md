@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/01/new_kid_on_the_.html 
 category:
   - Music
 author: AndrewDonaldson

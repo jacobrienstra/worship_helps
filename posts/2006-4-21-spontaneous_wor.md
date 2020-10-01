@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/04/spontaneous_wor.html 
 category: []
 author: johndwilliams
 authorEmail: jwilliams@austincollege.edu

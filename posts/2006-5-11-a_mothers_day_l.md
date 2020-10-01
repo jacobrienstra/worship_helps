@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/05/a_mothers_day_l.html 
 category:
   - Prayer
   - Ritual

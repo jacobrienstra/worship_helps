@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/10/advent_wreath.html 
 category:
   - Church Year
   - Ritual

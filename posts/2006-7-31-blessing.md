@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/07/blessing.html 
 category:
   - Drama
   - Words

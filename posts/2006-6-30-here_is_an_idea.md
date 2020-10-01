@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/06/here_is_an_idea.html 
 category:
   - Ritual
 author: BrianPaulson

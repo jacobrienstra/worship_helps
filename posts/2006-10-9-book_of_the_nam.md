@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/10/book_of_the_nam.html 
 category:
   - Ritual
 author: Kevin Anderson

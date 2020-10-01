@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2006/02/what_is_alterna.html 
 category:
   - Alt
 author: RonRienstra

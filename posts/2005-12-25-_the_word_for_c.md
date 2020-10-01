@@ -1,4 +1,6 @@
 ---
+layout: post.pug
+permalink: /worship_helps/2005/12/_the_word_for_c.html 
 category:
   - Preaching
   - Theme
