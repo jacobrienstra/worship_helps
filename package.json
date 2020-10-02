@@ -10,11 +10,18 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "turndown": "^6.0.0",
-    "mtif": "0.0.1"
+    "mtif": "0.0.1",
+    "stylelint": "^13.7.2",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-prettier": "^1.1.2",
+    "turndown": "^6.0.0"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
+    "eleventy-plugin-sass": "^1.1.1",
     "js-yaml": "^3.14.0"
   }
 }

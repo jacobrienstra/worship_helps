@@ -1,8 +1,8 @@
-const yaml = require("js-yaml");
-const mtif = require("mtif");
+const pluginSass = require("eleventy-plugin-sass");
 
 module.exports = (eleventyConfig) => {
+  eleventyConfig.addPlugin(pluginSass);
   dir: {
-    input: "posts";
+    input: ["posts"];
   }
 };
