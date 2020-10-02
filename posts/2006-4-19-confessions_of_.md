@@ -16,6 +16,9 @@ date: 2006-04-19T20:05:25.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - post
 ---
 I have no business doing what I'm doing.  I'm a United Methodist pastor by training and spent 25 years in parish ministry.  But God's calling is never predictable.  Five years ago I took a leap of faith based on that new calling and founded a ministry called The Ministry of Congregational Singing.   I try to help congregations sort out why their singing has gotten timid or conflicted.
 

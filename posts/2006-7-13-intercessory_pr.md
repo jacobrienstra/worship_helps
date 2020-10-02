@@ -16,6 +16,9 @@ date: 2006-07-13T20:45:56.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Prayer
+  - post
 ---
 [![Prayer2_1](https://worshiphelps.blogs.com/worship_helps/images/prayer2_1.gif "Prayer2_1")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/prayer2_1.gif)
 

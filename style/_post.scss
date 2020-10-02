@@ -1,0 +1,41 @@
+.nav-bottom {
+  a {
+    color: var(--blue);
+    font-weight: 700;
+    font-size: 24px;
+  }
+
+  .previous {
+    float: left;
+  }
+
+  .next {
+    float: right;
+  }
+}
+
+article {
+  &.post-list {
+    margin-bottom: 48px;
+  }
+
+  .post-title {
+    margin-bottom: 12px;
+  }
+
+  .post-date {
+    padding-bottom: 16px;
+    border-bottom: 2px dashed var(--blue);
+  }
+
+  a.continue {
+    color: var(--grey);
+    text-decoration: underline;
+  }
+
+  .post-content {
+    a {
+      color: var(--red);
+    }
+  }
+}

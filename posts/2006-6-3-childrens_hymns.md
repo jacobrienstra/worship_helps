@@ -16,6 +16,9 @@ date: 2006-06-03T13:21:05.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - post
 ---
 I love singing with children - (well, most of the time, but that part doesn't come into this story). They soak up words and melodies like sponges, storing them away and pouring them out at every opportunity, “in season and out of season” - as the parents in our church ruefully attest.
 

@@ -50,6 +50,10 @@ comments:
       This is a big help.
 keywords:
   - ''
+tags:
+  - Daily Prayer
+  - Ordo
+  - post
 ---
 [![Worshiptodo_1](https://worshiphelps.blogs.com/worship_helps/images/worshiptodo_1.gif "Worshiptodo_1")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/worshiptodo_1.gif) As we plan weekly worship here at Fuller Seminary, the worship interns and I have been talking quite a bit lately about three persistent and related problems.
 

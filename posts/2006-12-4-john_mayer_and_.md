@@ -16,6 +16,9 @@ date: 2006-12-04T21:11:00.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Church Year
+  - post
 ---
 During the season of Advent waiting is a central theme. The community of Jesus’ time was waiting for the promised messiah to come. They were waiting for someone to deliver them from an oppressive political structure. There was unnecessary violence, moral religious laws trumping acts of love and justice and a veiled connection between the politically powerful and the religiously powerful. We know that Jesus was crucified by both the religious majority of his time in cahoots with the political ruler Pontius Pilot. We see politics and religion today being used in ways that go against God’s plan for us and creation. John Mayer in his song “Waiting On the World To Change” expresses frustration about the current situation and hope for something better. He begins by saying:
 

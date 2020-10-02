@@ -16,6 +16,9 @@ date: 2006-02-27T23:22:53.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Ritual
+  - post
 ---
 For those Protestant ministers who have congregants that are squeamish about having a cross thumbed on their forehead (“Isn’t that Catholic?”), I’ve found a biblical solution acceptable to all. It isn’t the most edifying passage of scripture, but in
 

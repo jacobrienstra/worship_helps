@@ -16,6 +16,9 @@ date: 2006-06-02T00:14:42.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Alt
+  - post
 ---
 Are we losing our sense of “awe”? I find myself overwhelmed by rocketing gas prices, by the helplessness I feel as I pass a group of homeless men sleeping in the 99 cents store parking lot late at night, and the discontent I feel as I watch my two brothers debilitated by cancer…both with young families. Where is God? Does He care?
 

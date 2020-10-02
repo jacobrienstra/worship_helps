@@ -16,6 +16,9 @@ date: 2006-06-30T17:31:36.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Ritual
+  - post
 ---
 Here is an idea to strengthen you experience of baptismal renewal. Take a walk! [![River_2](https://worshiphelps.blogs.com/worship_helps/images/river_2.jpg "River_2")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/river_2.jpg)
 

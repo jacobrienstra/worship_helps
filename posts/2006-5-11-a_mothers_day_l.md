@@ -50,6 +50,10 @@ comments:
       perfect.
 keywords:
   - ''
+tags:
+  - Prayer
+  - Ritual
+  - post
 ---
 Last year we used this Mother's Day liturgy and it received a warm reception. It's inclusive of women in all stages of life.
 ***

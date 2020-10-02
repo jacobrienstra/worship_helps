@@ -16,6 +16,9 @@ date: 2006-05-09T17:56:34.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Prayer
+  - post
 ---
 [![Mothersday2](https://worshiphelps.blogs.com/worship_helps/images/mothersday2.png "Mothersday2")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/mothersday2.png) [I’ve been reading](http://rienstra.blogspot.com/2006/05/consumer-culture-catechumenate.html) lately about how our consumer culture tempts the Christian with a competing and compelling way of being in the world.  It even has its own calendar, featuring economic “holy days” in which we are encouraged to engage in ritualized pagan practices.  This upcoming Sunday, Mother’s Day, notwithstanding its [ostensibly Christian origins](http://mothers-day.123holiday.net/), is one such day.
 

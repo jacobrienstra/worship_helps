@@ -17,6 +17,10 @@ date: 2006-01-29T14:10:38.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - Technology
+  - post
 ---
 Last week I finished writing a piece for Fuller Seminary's 3x-yearly magazine of theology & commentary, [Theology News & Notes](http://www.fuller.edu/news/pubs/tnn/2005_fall/index.htm). This particular issue's theme is the place of music in worship, and I was asked to contribute a piece on the effect of technology on worship music. My thesis, simply put, is a truism borrowed from the computer industry -- hardware drives software:
 

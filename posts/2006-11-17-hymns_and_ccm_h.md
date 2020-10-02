@@ -16,6 +16,9 @@ date: 2006-11-17T05:51:16.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - post
 ---
 I listened to a number of CCM artists recently for an article I was writing for _[The Hymn](www.hymnsociety.org)_, and what surprised me was how often they quoted the words of well-known hymns. Jars of Clay, Kirk Franklin, Selah, DC Talk, Newsboys, all slip easily from pop vernacular into the heightened language taken directly from Isaac Watts, Charles Wesley or Fanny Crosby.
 

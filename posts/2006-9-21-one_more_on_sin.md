@@ -21,6 +21,9 @@ comments:
     text: I look forward to more! I'll pass it on to our worship co ordinator.
 keywords:
   - ''
+tags:
+  - Music
+  - post
 ---
 A guest minister who came to preach at our church told me that, during the “children's time”, he planned to sing one of his own songs with the children. So, he brought his guitar and taught them a song whose chorus went something like this:
 

@@ -17,6 +17,10 @@ date: 2006-02-28T22:50:50.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - Ritual
+  - post
 ---
 My community has experienced the benefits of expressing our anger and confusion with God in a time of Lament.  One time of lament that we (the worship arts team) came up with was particularly meaningful.  We married two songs together and used a Psalm of Lament to structure our time.  The Psalm was 60, and the songs were "O God, Where are You Now?" W/M by Sufjan Stevens and "O God, Our Help in Ages Past," W/M by Watts/Croft.  The first song can be found on the album "Michigan."  It contains the following stanzas, rich with meaning and content:
 

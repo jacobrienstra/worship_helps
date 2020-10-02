@@ -35,6 +35,11 @@ comments:
     text: 'Kudos to you, Aaron, my brotha!'
 keywords:
   - ''
+tags:
+  - Alt
+  - Music
+  - Words
+  - post
 ---
 I've been using a tool for small group worship that has helped bring a fresh twist to 'plain ol' strumming and singing.
 

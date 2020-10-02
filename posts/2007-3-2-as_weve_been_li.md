@@ -15,6 +15,8 @@ date: 2007-03-03T03:46:07.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - post
 ---
 As we've been living in the midst of house renovations, I've been thinking about congregational imagination. A congregation's imagination is reflected in many ways: how it shapes and reshapes its worship space, how it shapes its re-telling of biblical stories and its own congregational stories, the kinds of people who are welcomed and who feel at home, and the kinds of cultic practices it considers normative. 
 

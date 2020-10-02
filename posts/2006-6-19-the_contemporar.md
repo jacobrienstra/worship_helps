@@ -18,6 +18,11 @@ date: 2006-06-19T20:48:22.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - Prayer
+  - Ritual
+  - post
 ---
 Everyone wants heightened spirituality, but don’t know what it takes to get there. Most pastors and worship leaders have such a hectic schedule that it is impossible to slowdown enough for quiet time or solitude. Yet the Apostolic Fathers of faith placed a high value on it.
 

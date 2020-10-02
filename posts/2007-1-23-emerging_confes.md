@@ -189,6 +189,9 @@ comments:
       Peace in Christ,
 keywords:
   - ''
+tags:
+  - Prayer
+  - post
 ---
 In his book on emerging or progressive Christianity, _The Heart of Christianity_, Marcus Borg questions whether "sin" is the best term for describing our human condition before God. His argument isn't merely theological, but liturgical: "The nearly universal liturgical element of 'confession of sin and absolution' might be replaced or complemented by a 'declaration of what ails us and God's promise to us'" (p. 170). He continues in a note: "I am not suggesting these exact words as 'liturgical headings.' I would hope more elegant phrases could be found, but I am suggesting the notion that lies behind these words" (p. 185, n. 8). Following is one attempt at more elegant phrasing for several of the images Borg mines from the Bible to describe our condition.
 

@@ -17,6 +17,10 @@ date: 2008-06-24T15:12:35.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - Prayer
+  - post
 ---
 [![World_in_black_and_white_hands](https://worshiphelps.blogs.com/worship_helps/images/2008/06/24/world_in_black_and_white_hands.jpg "World_in_black_and_white_hands")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/2008/06/24/world_in_black_and_white_hands.jpg) Years ago, when I worked as a chaplain at [Central College](http://www.central.edu/), I had a colleague who used to get together with me regularly to pray for our students.  We did so not only because we believed it would make a difference for them, but because we knew it made a difference for us.  Praying for Jennifer and Scott as they worked through the pain of their parents’ divorces in anticipation of being married themselves, praying for Kim as she struggled with anorexia, with Mark as he battled addiction – these prayers helped remind us that though we are to be faithful and diligent in the ministries God has given us, in the end the sun does not rise, and the crops do not grow, and people are not made whole, and the kingdom does not come by dint of our own effort.
 

@@ -35,6 +35,9 @@ comments:
       Ocepek
 keywords:
   - ''
+tags:
+  - Ritual
+  - post
 ---
  [![Ccg](https://worshiphelps.blogs.com/worship_helps/images/ccg.jpg "Ccg")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/ccg.jpg) I have always disliked serving communion in those little “shot glasses.” I’m sure there is an official name for them, but I’ve never learned it. The symbolism of rejecting a common cup in favor of individual serving sizes bothers me intensely. I’m just as bothered by the individual wafers for communion. In ordinary Lord’s Day worship, my congregation uses a common cup and a single loaf of bread, and we commune by intinction.
 

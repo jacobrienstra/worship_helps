@@ -1,5 +1,5 @@
 Arguments: 
-  /Users/jacob/.nvm/versions/node/v12.13.1/bin/node /usr/local/Cellar/yarn/1.22.4/libexec/bin/yarn.js add --dev --ignore-engines stylelint stylelint-order stylelint-config-rational-order stylelint-plugin-rational-order
+  /Users/jacob/.nvm/versions/node/v12.13.1/bin/node /usr/local/Cellar/yarn/1.22.4/libexec/bin/yarn.js add -ignore-engines moment
 
 PATH: 
   /Users/jacob/.pyenv/shims:/Users/jacob/.nvm/versions/node/v12.13.1/bin:/usr/local/opt/ruby/bin:/usr/local/mysql/bin:/Users/jacob/bin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Apple/usr/bin:/Users/jacob/.pyenv/shims:/Users/jacob/.nvm/versions/node/v12.13.1/bin:/usr/local/opt/ruby/bin:/usr/local/mysql/bin:/Users/jacob/bin:/opt/local/bin:/opt/local/sbin
@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/stylelint-plugin-rational-order: Not found
+  Error: https://registry.yarnpkg.com/-e: Not found
       at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.22.4/libexec/lib/cli.js:66987:18)
       at Request.self.callback (/usr/local/Cellar/yarn/1.22.4/libexec/lib/cli.js:140748:22)
       at Request.emit (events.js:210:5)
@@ -33,7 +33,8 @@ npm manifest:
     "description": "",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+      "serve": "npx @11ty/eleventy --serve",
+      "parse": "node parse.js"
     },
     "keywords": [],
     "author": "",
@@ -46,6 +47,7 @@ npm manifest:
       "stylelint-config-standard": "^20.0.0",
       "stylelint-order": "^4.1.0",
       "stylelint-prettier": "^1.1.2",
+      "stylelint-scss": "^3.18.0",
       "turndown": "^6.0.0"
     },
     "dependencies": {
@@ -6115,6 +6117,17 @@ Lockfile:
     integrity sha512-8QZ+EtBpMCXYB6cY0hNE3aCDKMySIx4Q8/malLaqgU/KXXa6Cj2KK8ulG1AJvUMD5XSSP8rOotqaCzR/BW6qAA==
     dependencies:
       prettier-linter-helpers "^1.0.0"
+  
+  stylelint-scss@^3.18.0:
+    version "3.18.0"
+    resolved "https://registry.yarnpkg.com/stylelint-scss/-/stylelint-scss-3.18.0.tgz#8f06371c223909bf3f62e839548af1badeed31e9"
+    integrity sha512-LD7+hv/6/ApNGt7+nR/50ft7cezKP2HM5rI8avIdGaUWre3xlHfV4jKO/DRZhscfuN+Ewy9FMhcTq0CcS0C/SA==
+    dependencies:
+      lodash "^4.17.15"
+      postcss-media-query-parser "^0.2.3"
+      postcss-resolve-nested-selector "^0.1.1"
+      postcss-selector-parser "^6.0.2"
+      postcss-value-parser "^4.1.0"
   
   stylelint@^13.7.2:
     version "13.7.2"

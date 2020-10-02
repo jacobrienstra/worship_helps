@@ -16,5 +16,8 @@ date: 2006-02-11T16:01:29.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Lectionary Texts
+  - post
 ---
 If you aren't already familiar with it, check out the website at [Textweek](http://www.textweek.com) -- it offers links to each week's lectionary texts and many other scripture study and worship planning resources often keyed to that collection of texts.  A clean, lectionary-texts only site can be found [here](http://divinity.library.vanderbilt.edu/lectionary/).

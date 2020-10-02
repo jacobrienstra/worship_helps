@@ -17,6 +17,10 @@ date: 2006-08-10T18:27:00.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Alt
+  - Ritual
+  - post
 ---
 [![Baptism21](https://worshiphelps.blogs.com/worship_helps/images/baptism21.jpg "Baptism21")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/baptism21.jpg)A couple weeks ago I baptized my nephew at his home church in Chicago.  Per his parents' request, we used freshly imported water from Lake Michigan.  Let's just say that we certainly followed the [ancient advice](http://www.ccel.org/ccel/schaff/anf07.viii.iii.vii.html) to use "living" water.   
 

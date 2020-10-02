@@ -16,6 +16,9 @@ date: 2006-10-09T19:30:35.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Ordo
+  - post
 ---
 [![Question_mark_people](https://worshiphelps.blogs.com/worship_helps/images/question_mark_people.jpg "Question_mark_people")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/question_mark_people.jpg) What should Christians do when we gather to worship?   Of course, there are all sorts of things we actually do: we stand, we sit, we sing, we raise our hands, we are silent, we eat and drink, we pray.  Then again, we do all these things when we attend a football game.  But in worship we do all these things (and many more) with worshipful purposes in mind: to confess, to praise, to hear the Word, etc.  But we don't do every possible option at every single service.  So what elements are so important that we should not do without them?
 

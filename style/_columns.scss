@@ -1,0 +1,72 @@
+@import "vars";
+
+#column-wrapper {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0 auto;
+  padding: calc(2 * var(--spacing));
+  background-color: #ebe9e0;
+
+  @media (min-width: $sm) {
+    padding-right: calc(3 * var(--spacing));
+    padding-left: calc(3 * var(--spacing));
+  }
+
+  @media (min-width: $xl) {
+    max-width: $xl;
+  }
+
+  .column-grid-root {
+    display: grid;
+    grid-gap: calc(3 * var(--spacing));
+    grid-template-columns: repeat(12, 1fr);
+    margin-top: 0;
+    .column {
+      padding: calc(3 * var(--spacing));
+      background-color: white;
+      border-radius: 10px;
+    }
+    .col-1-of-3 {
+      @media (min-width: $xs) {
+        grid-row: 2 / span 1;
+        grid-column: 1 / span 6;
+      }
+      @media (min-width: $md) {
+        grid-row: 1 / span 1;
+        grid-column: 1 / span 4;
+      }
+      @media (min-width: $lg) {
+        grid-row: span 1;
+        grid-column: span 3;
+      }
+    }
+    .col-2-of-3 {
+      @media (min-width: $xs) {
+        grid-row: 1 / span 1;
+        grid-column: 1 / span 12;
+      }
+      @media (min-width: $md) {
+        grid-row: 1 / span 2;
+        grid-column: 5 / span 8;
+      }
+      @media (min-width: $lg) {
+        grid-row: span 1;
+        grid-column: span 6;
+      }
+    }
+    .col-3-of-3 {
+      @media (min-width: $sm) {
+        grid-row: 2 / span 1;
+        grid-column: 7 / span 6;
+      }
+      @media (min-width: $md) {
+        grid-row: 2 / span 1;
+        grid-column: 1 / span 4;
+      }
+      @media (min-width: $lg) {
+        grid-row: span 1;
+        grid-column: span 3;
+      }
+    }
+  }
+}

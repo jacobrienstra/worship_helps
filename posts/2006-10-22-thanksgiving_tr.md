@@ -21,6 +21,14 @@ date: 2006-10-22T14:34:00.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - Ordo
+  - Prayer
+  - Ritual
+  - Theme
+  - Words
+  - post
 ---
 [![840400](https://worshiphelps.blogs.com/worship_helps/images/840400.jpg "840400")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/840400.jpg) On Thanksgiving Day many churches offer a very traditional worship service: Psalm 100, a litany of thanksgiving, “Come, You Thankful People, Come.” On a day when we look back with gratitude at God’s good gifts to us, it makes sense to make use of the work and wisdom of our forebears and to worship using that which is tried and true. Other congregations seek innovation: pilgrim puppets behind the pulpit, prayers of thanks colored (not written) in crayon on scraps of paper and dropped in the offering plate.
 

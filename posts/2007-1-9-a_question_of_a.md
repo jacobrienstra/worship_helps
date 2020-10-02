@@ -51,6 +51,10 @@ comments:
       deeper and learned an important lesson about who and whose we are.
 keywords:
   - ''
+tags:
+  - Music
+  - Words
+  - post
 ---
 Back in Nov., I got an insightful email from a congregant about a phrase we sang in a song during our weekend church services.  The song was "Give Us Clean Hands" by Charlie Hall. 
 

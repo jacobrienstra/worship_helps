@@ -68,6 +68,8 @@ comments:
       My goal: get out of the way and let Christ speak...whatever it takes -
 keywords:
   - ''
+tags:
+  - post
 ---
 Victoria Weinstein, a Unitarian Universalist minister \[obviously outside of the bounds of evangelicalism\] who goes by the handle PeaceBang, has launched a [fashion blog](http://beautytipsforministers.blogspot.com/) to encourage the "defrumpification of the American clergy." And in a recent [_Boston Globe_ story](http://www.boston.com/news/local/articles/2007/02/18/preaching_fashion/), Weinstein says that even though fashion isn't the greatest concern for clergy, it still matters.
 

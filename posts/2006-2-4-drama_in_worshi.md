@@ -16,6 +16,9 @@ date: 2006-02-04T19:27:05.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Drama
+  - post
 ---
 [![Drama](https://worshiphelps.blogs.com/worship_helps/images/drama.jpg "Drama")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/drama.jpg) A bit of advice on using drama in worship, excerpted from a  forthcoming [publication](http://shop5.gospelcom.net/epages/FaithAlive.storefront/43e64e4908e91858271d45579e790668/Product/View/420031#full).
 

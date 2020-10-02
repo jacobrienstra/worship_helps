@@ -16,6 +16,9 @@ date: 2006-06-28T21:43:39.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Ordo
+  - post
 ---
 It often seems that tradition is in the eyes of the beholder.
 

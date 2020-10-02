@@ -1,0 +1,21 @@
+---
+pagination:
+  data: collections.post
+  size: 10
+  alias: posts
+  reverse: true
+permalink: |
+  | #{pagination.pageNumber === 0 ? "worship_helps/index.html" : "worship_helps/page/" + (pagination.pageNumber + 1) + "/index.html"}
+---
+extends _includes/base.pug
+include _includes/mixins.pug
+
+block col2
+  each post in posts
+    +postList(post)
+  .nav-bottom
+    if pagination.href.previous
+      a(href=pagination.href.previous).previous Previous
+    if pagination.href.next
+      a(href=pagination.href.next).next Next
+

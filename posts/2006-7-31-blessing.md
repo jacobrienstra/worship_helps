@@ -17,6 +17,10 @@ date: 2006-07-31T15:31:00.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Drama
+  - Words
+  - post
 ---
 [![You_make_blessing_1](https://worshiphelps.blogs.com/worship_helps/images/you_make_blessing_1.jpg "You_make_blessing_1")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/you_make_blessing_1.jpg) A chapel service I helped plan recently juxtaposed the dominant community calendar (the academic one) with the church's liturgical calendar.  So the chapel service the week before Ascension Day was entitled "The Blessing of Week Nine." 
 

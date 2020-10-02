@@ -17,6 +17,10 @@ date: 2006-05-23T20:30:48.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Alt
+  - Ritual
+  - post
 ---
 While planning a worship service at Austin College in Sherman, Texas, one student said, “If we’re going to do the Kiss of Peace, can we play Spin the Bottle?” Although her comment was intended as a joke, she and the other students—with the encouragement of the college chaplain—developed a version of “Spin the Bottle” as an appropriate and authentic part of our Christian communion service.
 

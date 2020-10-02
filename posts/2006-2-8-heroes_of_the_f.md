@@ -16,6 +16,9 @@ date: 2006-02-08T16:59:22.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Visual Art
+  - post
 ---
 In response to sticky, sycophantic treatments of the theme "Heroes of the Faith," an artist I know created these images for use in a worship service.  Feel free to use them, but credit him: (C) 2005 Scott Beahm.  
   

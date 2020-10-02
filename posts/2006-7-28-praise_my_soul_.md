@@ -39,6 +39,9 @@ comments:
       103: http://gregscheer.com/praise/my_soul_will_glorify.html
 keywords:
   - ''
+tags:
+  - Music
+  - post
 ---
 I've written [elsewhere](http://www.reformedworship.org/magazine/article.cfm?article_id=1192) about Kevin Twit and the [Indelible Grace project](http://www.igracemusic.com/), whose hope is to "help the church recover the tradition of putting old hymns to new music for each generation."  Of course, Kevin and his friends aren't the only ones doing this -- a student of mine from Fuller Seminary, Luke Hyder, has been doing it for years, too. 
 

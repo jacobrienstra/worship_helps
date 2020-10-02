@@ -27,6 +27,12 @@ comments:
       practices each Sunday:
 keywords:
   - ''
+tags:
+  - Daily Prayer
+  - Ordo
+  - Ritual
+  - Visual Art
+  - post
 ---
 Ron’s story about baptizing his nephew and the connections of baptism to our care for creation show how multifaceted the layers of this sacrament are. All of life, for those of us born of water and the Spirit, is wet. In other words, every moment of each day is grounded in baptism. Even if we are not following the will of God, those moments are redeemed in God’s grace, which is one aspect of baptism (cleansing from or forgiveness of sin). This is why confession or at least a reflection on how we “missed the mark” or sinned is a part of the compline prayer. The ancient “compline” prayer, or prayer at the close of the day shapes our sleeping and rising in the death and resurrection of Christ. This image is one of baptismal life; continually dying (repenting and turning from ways that separate us from Christ) and rising to new life each day.
 

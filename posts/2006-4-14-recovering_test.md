@@ -16,6 +16,9 @@ date: 2006-04-14T15:28:18.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Ritual
+  - post
 ---
 During this past Lenten season my congregation made space in the liturgy, just after the call to worship and before the communal prayer of confession, for testimony from members of the congregation. The tradition of offering public testimony has faded from many mainline congregations, especially those committed to liturgical worship. The Presbyterian congregation (PCUSA) I am currently serving as a temporary supply pastor is very much committed to classical forms of worship, but wanted to find a way to recover the tradition of testimony in ways consonant with that form of worship.
 

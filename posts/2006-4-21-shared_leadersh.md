@@ -189,6 +189,10 @@ comments:
       I'll keep you posted on our development!
 keywords:
   - ''
+tags:
+  - Alt
+  - Ritual
+  - post
 ---
 Worship at Austin College —a Presbyterian Church (USA)-related college in Sherman Texas—includes the explicit assumption that all who attend are capable of participating in the leadership of worship.  For this reason, after particular students and the College Chaplain plan a given service, a program is prepared that contains every word that anyone will say during the service (with the exception of the Proclamation of the Word and the Words of Institution).  Worshipers always sit in a circle around the Communion Table.  The portions spoken or sung by the congregation as a whole are printed in bold type.  The portions to be read by an individual voice are printed in standard type.   The single-voice sections are printed with a line skipped between each sentence or section.  Whenever a line is skipped, the next person around the circle reads the next line.  In this way, the leadership of the service moves around the circle.
 

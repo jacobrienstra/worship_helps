@@ -26,6 +26,9 @@ comments:
       you!
 keywords:
   - ''
+tags:
+  - Ritual
+  - post
 ---
 [![P10](https://worshiphelps.blogs.com/worship_helps/images/p10.jpg "P10")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/p10.jpg) I was at a church the other day where they did the most extraordinary thing at the offering.  Instead of passing the plates and then bringing them up front to the doxology ("Thanks for all the stuff you give us, God!"), they passed the plates while two families came forward to bring testimony. 
 

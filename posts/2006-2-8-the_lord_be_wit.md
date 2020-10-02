@@ -16,6 +16,9 @@ date: 2006-02-08T16:15:29.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - post
 ---
 [![TLBWY.opening](https://worshiphelps.blogs.com/.a/6a00d8341c423653ef01b8d21a28be970c-120wi "TLBWY.opening")](http://worshiphelps.blogs.com/.a/6a00d8341c423653ef01b8d21a28be970c-popup)A few years ago, my worship team tackled the question of how to begin our 'contemporary' worship services.  Sometimes the band would just walk up front and begin to play. Sometimes there'd be a time of teaching new music.   Sometimes there would be a song that felt like a prelude.  Other times there were announcements. 
 

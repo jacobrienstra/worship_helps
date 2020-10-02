@@ -16,6 +16,9 @@ date: 2006-08-04T17:39:00.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Prayer
+  - post
 ---
 We have written before ([here](http://worshiphelps.blogs.com/worship_helps/2006/04/recovering_test.html), [here](http://worshiphelps.blogs.com/worship_helps/2006/02/further_thought.html), and [here](http://worshiphelps.blogs.com/worship_helps/2006/02/where_to_put_th.html)) about incorporating lament into worship.  Most often such prayers are corporate rather than individual.  The harsh language of the Psalmic lament is difficult for most individuals to appropriate in their own devotional lives.  We have somehow learned that asking questions of God is irreverent, especially if those questions have a rebuking tone.  But the Psalms teach us that such questions are a central part of a relationship with God, and Scripture as a whole teaches us that God can probably handle our mild rants once in a while. 
 

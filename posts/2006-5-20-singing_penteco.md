@@ -16,6 +16,9 @@ date: 2006-05-20T17:16:39.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - post
 ---
 [![Pour](https://worshiphelps.blogs.com/worship_helps/images/pour.gif "Pour")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/pour.gif)Music adds many layers of meaning - subtle or obvious - to the drama of scripture.
 

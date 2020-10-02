@@ -16,5 +16,8 @@ date: 2006-08-24T04:26:32.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Ordo
+  - post
 ---
 For a fine article about 'contemporary' worship -- structure, style, planning, etc. -- that features some of the authors of this blog, click [here](http://www.calvin.edu/worship/stories/contemp_wrshp.php).

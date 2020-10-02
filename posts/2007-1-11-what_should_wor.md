@@ -254,6 +254,9 @@ comments:
       cultural relevancy without being tempered by opposing arguments
 keywords:
   - ''
+tags:
+  - Music
+  - post
 ---
 Back in July of '06, I wrote an blog post entitled, "[The Pope's Rift with Riffs](http://relevintage.com/the-popes-rift-with-riffs/)" on my blog, [relevintage.com](http://www.relevintage.com).
 

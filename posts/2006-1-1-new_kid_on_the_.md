@@ -16,6 +16,9 @@ date: 2006-01-02T01:02:00.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - post
 ---
 [![Andrewd](https://worshiphelps.blogs.com/worship_helps/images/andrewd.jpg "Andrewd")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/andrewd.jpg) First, some words of introduction. This will serve not only to let you know something about me - Andrew Donaldson -- but also to introduce some of the subject areas that I am passionate about.
 

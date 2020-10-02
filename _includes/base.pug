@@ -19,4 +19,11 @@ html
     header
       h1#header-title WorshipHelps
       h2#header-desc A collection of resources and commentary for those who plan and lead weekly Christian worship
-    block content
+    #column-wrapper 
+      .column-grid-root
+        .column.col-1-of-3
+          block col1
+        .column.col-2-of-3
+          block col2
+        .column.col-3-of-3
+          block col3

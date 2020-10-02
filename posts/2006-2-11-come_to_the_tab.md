@@ -17,6 +17,10 @@ date: 2006-02-11T16:25:26.000Z
 comments: []
 keywords:
   - ''
+tags:
+  - Music
+  - Prayer
+  - post
 ---
 [![Screenhunter_002](https://worshiphelps.blogs.com/worship_helps/images/screenhunter_002.jpg "Screenhunter_002")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/screenhunter_002.jpg) A wonderful way to make explicit the sacramental connection between our everyday life and its distillation in liturgy is to sing a variation on the Great Prayer over our ordinary meals. Chip Andrus, a pastor, teacher, and musician with the Office of Theology and Worship for the PC(USA) has written a lively folk prayer that works well for just this purpose.             
 

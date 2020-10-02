@@ -33,6 +33,17 @@ comments:
       and am so excited be'se website is going to help me a lot.
 keywords:
   - ''
+tags:
+  - Music
+  - Ordo
+  - Prayer
+  - Preaching
+  - Ritual
+  - Technology
+  - Theme
+  - Visual Art
+  - Words
+  - post
 ---
  **[![B000bnxdeg01_aa240_sclzzzzzzz_](https://worshiphelps.blogs.com/worship_helps/images/b000bnxdeg01_aa240_sclzzzzzzz_.jpg "B000bnxdeg01_aa240_sclzzzzzzz_")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/b000bnxdeg01_aa240_sclzzzzzzz_.jpg)** Dr. Steven Taylor is the founding pastor of Graceway Baptist Church in Ellerslie, New Zealand. He has a PhD on the Emerging Church and a Masters in Theology in communicating the cross in a postmodern world. Steve recently did a course at Fuller Seminary entitled “Communicating the Biblical Text in a PostModern Culture” in July.
 

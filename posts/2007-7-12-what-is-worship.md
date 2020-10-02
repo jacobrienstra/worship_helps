@@ -57,6 +57,9 @@ comments:
       context.
 keywords:
   - ''
+tags:
+  - Ordo
+  - post
 ---
 This is an article that featured Todd Johnson and Ed Willmington address the question "What is Worship?"  It helps to get inside of the heads of these two worship gurus.
 

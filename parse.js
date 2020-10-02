@@ -35,6 +35,7 @@ ${jsyaml.safeDump(
   Object.assign(entry.data, {
     comments: entry.comments,
     keywords: entry.keywords,
+    tags: entry.data.category.concat(["post"]),
   })
 )}---
 ${body}`

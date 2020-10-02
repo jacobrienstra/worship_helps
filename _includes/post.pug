@@ -1,8 +1,7 @@
----
-
----
-
 extends base.pug
 
-block content
-  .post-content !{content}
+block col2
+  article.post
+    h3.post-title #{title}
+    h5.post-date #{global.moment(date).format('MMMM DD, YYYY')}
+    .post-content !{content}
