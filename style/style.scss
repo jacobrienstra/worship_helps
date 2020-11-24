@@ -76,4 +76,23 @@ body {
       padding: 12px 0;
     }
   }
+
+  section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &.about {
+      text-align: center;
+    }
+
+    h4.title {
+      padding-bottom: 12px;
+    }
+    .link {
+      display: block;
+      padding-bottom: 5px;
+      color: var(--grey);
+    }
+  }
 }
