@@ -1,0 +1,20 @@
+---
+pagination:
+  data: collections.doublePagination
+  size: 1
+  alias: category
+permalink: |
+  | worship_helps/#{category.tagName}/#{category.pageNumber ? "page/"+ (category.pageNumber + 1) : ""}/index.html
+---
+extends _includes/base.pug
+include _includes/mixins.pug
+
+block col2
+  each post in category.pageData
+    +postList(post)
+  .nav-bottom
+    // not 0
+    if pagination.href.previous && category.pageNumber !== 0
+      a(href=pagination.href.previous).previous Previous
+    if pagination.href.next && pagination.pages[pagination.pageNumber + 1].tagName === category.tagName
+      a(href=pagination.href.next).next Next

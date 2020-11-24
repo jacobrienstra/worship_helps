@@ -1,8 +1,65 @@
 const pluginSass = require("eleventy-plugin-sass");
 const moment = require("moment");
+const lodash = require("lodash");
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(pluginSass);
+  eleventyConfig.addCollection("doublePagination", function (collection) {
+    // Get unique list of tags
+    let tagSet = new Set();
+    collection.getAllSorted().map(function (item) {
+      if ("tags" in item.data) {
+        let tags = item.data.tags;
+
+        for (let tag of tags) {
+          tagSet.add(tag);
+        }
+      }
+    });
+
+    // Get each item that matches the tag
+    let paginationSize = 10;
+    let tagMap = [];
+    let tagArray = [...tagSet];
+    for (let tagName of tagArray) {
+      let tagItems = collection.getFilteredByTag(tagName);
+      let pagedItems = lodash.chunk(tagItems, paginationSize);
+      // console.log( tagName, tagItems.length, pagedItems.length );
+      for (
+        let pageNumber = 0, max = pagedItems.length;
+        pageNumber < max;
+        pageNumber++
+      ) {
+        tagMap.push({
+          tagName: tagName,
+          pageNumber: pageNumber,
+          pageData: pagedItems[pageNumber],
+        });
+      }
+    }
+
+    /* return data looks like:
+		[{
+			tagName: "tag1",
+			pageNumber: 0
+			pageData: [] // array of items
+		},{
+			tagName: "tag1",
+			pageNumber: 1
+			pageData: [] // array of items
+		},{
+			tagName: "tag1",
+			pageNumber: 2
+			pageData: [] // array of items
+		},{
+			tagName: "tag2",
+			pageNumber: 0
+			pageData: [] // array of items
+		}]
+	 */
+    //console.log( tagMap );
+    return tagMap;
+  });
 
   dir: {
     input: ["posts", "."];
