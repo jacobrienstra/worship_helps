@@ -1,11 +1,14 @@
 @import "vars";
 
+body {
+  background-color: #ebe9e0;
+}
+
 #column-wrapper {
   box-sizing: border-box;
   width: 100%;
   margin: 0 auto;
   padding: calc(2 * var(--spacing));
-  background-color: #ebe9e0;
 
   @media (min-width: $sm) {
     padding-right: calc(3 * var(--spacing));
