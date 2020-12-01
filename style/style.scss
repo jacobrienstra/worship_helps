@@ -77,7 +77,26 @@ body {
     }
   }
 
-  .column section {
+  section.container.archives {
+    padding: 12px;
+
+    .archive-header {
+      padding-bottom: 20px;
+    }
+
+    .archive-container {
+      margin-bottom: 35px;
+      li {
+        display: inline-block;
+        line-height: 1.6;
+        a.archive-link {
+          color: var(--red);
+        }
+      }
+    }
+  }
+
+  .column:not(.col-2-of-3) section {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -88,8 +107,12 @@ body {
       text-align: center;
     }
 
+    ul {
+      list-style: none;
+    }
+
     h4.title {
-      padding-bottom: 12px;
+      padding-bottom: 4px;
     }
 
     p {
@@ -98,6 +121,7 @@ body {
     }
 
     .li {
+      display: block;
       padding-bottom: 5px;
     }
 

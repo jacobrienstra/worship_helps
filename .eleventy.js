@@ -25,7 +25,7 @@ module.exports = (eleventyConfig) => {
         items: monthMap[month],
       });
     }
-    return monthList;
+    return monthList.reverse();
   });
 
   eleventyConfig.addCollection("doublePagination", function (collection) {

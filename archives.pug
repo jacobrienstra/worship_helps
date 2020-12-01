@@ -3,16 +3,23 @@ permalink: "worship_helps/archives.html"
 dynamicPermalink: false
 ---
 extends _includes/base.pug
-
 block col2
-  h3 Archives
-  each archive, i in collections.archive
-    a(href=`/worship_helps/${archive.y}/${archive.m}/`) #{archive.name}
-    if (i !== collections.archive.length-1)
-      |,&nbsp
-  h3 Categories
-  each cat in Object.keys(collections).filter(key => !['all', 'post', 'doublePagination', 'archive'].includes(key)).sort()
-    a(href=`/worship_helps/${cat}/`).link #{cat}
-    if (i !== collections.archive.length-1)
-      |,&nbsp
+  section.container.archives
+    h3.archive-title Archives
+    .archive-container
+      ul
+        each archive, i in collections.archive
+          li
+            a(href=`/worship_helps/${archive.y}/${archive.m}/`).archive-link #{archive.name}
+            if (i !== collections.archive.length-1)
+              |,&nbsp
+    h3.archive-title Categories
+    - var categories = Object.keys(collections).filter(key => !['all', 'post', 'doublePagination', 'archive'].includes(key)).sort();
+    .archive-container
+      ul
+        each cat, j in categories
+          li
+            a(href=`/worship_helps/${cat}/`).archive-link #{cat}
+            if (j !== categories.length-1)
+              |,&nbsp
 

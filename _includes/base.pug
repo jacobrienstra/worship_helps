@@ -31,7 +31,7 @@ html
               p If you don't want to post regularly, but do have a question, or want us the community to address a particular issue, feel free to email.
           section.contributers
             h4.title Contributers
-            .container
+            ul.container
               .li Tom Trinidad
               .li Thomas Nelson
               .li Taylor Burton-Edwards
@@ -56,11 +56,18 @@ html
           block col2
         .column.col-3-of-3
           section.categories
-            h4.title Categories
-            .container
-              each cat in Object.keys(collections).filter(key => !['all', 'post', 'doublePagination'].includes(key)).sort()
-                a(href=`/worship_helps/${cat}/`).link #{cat}
+            h4.title 
+              a(href="/worship_helps/archives.html") Categories
+            ul.container
+              - var categories = Object.keys(collections).filter(key => !['all', 'post', 'doublePagination', 'archive'].includes(key)).sort();
+              each cat in categories
+                li
+                  a(href=`/worship_helps/${cat}/`).link #{cat}
           section.archives
-            h4.title archives
-            .container 
+            h4.title 
+              a(href="/worship_helps/archives.html") Archives
+            ul.container 
+              each archive, i in collections.archive
+                li
+                  a(href=`/worship_helps/${archive.y}/${archive.m}/`).link #{archive.name}
 
