@@ -10,6 +10,8 @@ stream.on("error", function (err) {
   console.log(err);
 });
 
+// TODO: download pics
+
 stream.on("entry", function (entry) {
   if (entry.data.status === "Publish") {
     let [month, date, year] = entry.data.date.toLocaleDateString().split("/");
