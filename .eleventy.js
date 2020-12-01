@@ -8,11 +8,12 @@ module.exports = (eleventyConfig) => {
     let monthMap = {};
     collection.getAllSorted().map(function (item) {
       if ("date" in item.data) {
-        let date = moment(item.data.date).format("MMMM YYYY");
-        if (date in monthMap) {
-          monthMap[date].push(item);
+        let date = moment(item.data.date);
+        let dateStr = date.format("MMMM YYYY");
+        if (dateStr in monthMap) {
+          monthMap[dateStr].items.push(item);
         } else {
-          monthMap[date] = [item];
+          monthMap[dateStr] = { date: date, items: [item] };
         }
       }
     });
@@ -20,9 +21,9 @@ module.exports = (eleventyConfig) => {
     for (let month of Object.keys(monthMap)) {
       monthList.push({
         name: month,
-        m: moment(month).format("MM"),
-        y: moment(month).format("YYYY"),
-        items: monthMap[month],
+        m: moment(monthMap[month].date).format("MM"),
+        y: moment(monthMap[month].date).format("YYYY"),
+        items: monthMap[month].items,
       });
     }
     return monthList.reverse();
@@ -88,4 +89,5 @@ module.exports = (eleventyConfig) => {
   dir: {
     input: ["posts", "."];
   }
+  eleventyConfig.setQuietMode(true);
 };

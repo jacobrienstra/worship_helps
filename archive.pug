@@ -1,0 +1,14 @@
+---
+pagination:
+  data: collections.archive
+  size: 1
+  alias: month
+permalink: |
+  | worship_helps/#{month.y}/#{month.m}/index.html
+---
+extends _includes/base.pug
+include _includes/mixins.pug
+
+block col2
+  each post in month.items
+    +postList(post)
