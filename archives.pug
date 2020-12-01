@@ -19,7 +19,7 @@ block col2
       ul
         each cat, j in categories
           li
-            a(href=`/worship_helps/${cat}/`).archive-link #{cat}
+            a(href=`/worship_helps/${global.slug(cat, "_")}/`).archive-link #{cat}
             if (j !== categories.length-1)
               |,&nbsp
 

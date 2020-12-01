@@ -4,7 +4,7 @@ pagination:
   size: 1
   alias: category
 permalink: |
-  | worship_helps/#{category.tagName}/#{category.pageNumber ? "page/"+ (category.pageNumber + 1) : ""}/index.html
+  | worship_helps/#{global.slug(category.tagName, "_")}/#{category.pageNumber ? "page/"+ (category.pageNumber + 1) : ""}/index.html
 ---
 extends _includes/base.pug
 include _includes/mixins.pug

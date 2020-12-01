@@ -1,7 +1,19 @@
+mixin postFooter(post)
+  .post-footer Posted at #{global.moment(post.date).format('mm:ss A')} in 
+    each tag, i in post.tags.filter(e => e !== 'post')
+      a(href=`/worship_helps/${global.slug(tag, "_")}`).tag-link #{tag}
+      if (i !== post.tags.length-2)
+        |,&nbsp
+    span  | 
+    a(href=post.permalink)
+      i.fas.fa-link
+      |  Permalink
+
 mixin postList(post)
   article.post-list
     h3.post-title
       a(href=post.data.permalink) #{post.data.title}
     h5.post-date #{global.moment(post.data.date).format('MMMM DD, YYYY')}
     .post-content !{post.templateContent.split("</p>").slice(0, 4).join("</p>")}
-    a.continue(href=post.data.permalink) Continue reading...
+      a.continue(href=post.data.permalink) Continue reading...
+    +postFooter(post.data)

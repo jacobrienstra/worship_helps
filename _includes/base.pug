@@ -14,6 +14,7 @@ html
     meta(property="og:image" content="https://up6.typepad.com/6a00d8341c423653ef00e5501d7c178834-220si")
     link(rel="stylesheet" href="/style/style.css")
     link(rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora%7CKreon%7CAlice" media="all")
+    link(rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" media="all")
     title WorshipHelps
   body
     header
@@ -62,7 +63,7 @@ html
               - var categories = Object.keys(collections).filter(key => !['all', 'post', 'doublePagination', 'archive'].includes(key)).sort();
               each cat in categories
                 li
-                  a(href=`/worship_helps/${cat}/`).link #{cat}
+                  a(href=`/worship_helps/${global.slug(cat, "_")}/`).link #{cat}
           section.archives
             h4.title 
               a(href="/worship_helps/archives.html") Archives

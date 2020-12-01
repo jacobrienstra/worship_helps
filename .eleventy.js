@@ -86,6 +86,8 @@ module.exports = (eleventyConfig) => {
     return tagMap;
   });
 
+  // TODO: add collection of categories with urlized?
+
   dir: {
     input: ["posts", "."];
   }

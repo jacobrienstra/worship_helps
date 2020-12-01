@@ -36,6 +36,19 @@ article {
   .post-content {
     a {
       color: var(--red);
+      &.continue {
+        display: block;
+        margin-top: 12px;
+      }
+    }
+    margin-bottom: 12px;
+  }
+
+  .post-footer {
+    color: var(--grey);
+
+    a.tag-link {
+      display: inline-block;
     }
   }
 }
