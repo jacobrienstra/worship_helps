@@ -4,6 +4,30 @@ const lodash = require("lodash");
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(pluginSass);
+  eleventyConfig.addCollection("archive", function (collection) {
+    let monthMap = {};
+    collection.getAllSorted().map(function (item) {
+      if ("date" in item.data) {
+        let date = moment(item.data.date).format("MMMM YYYY");
+        if (date in monthMap) {
+          monthMap[date].push(item);
+        } else {
+          monthMap[date] = [item];
+        }
+      }
+    });
+    monthList = [];
+    for (let month of Object.keys(monthMap)) {
+      monthList.push({
+        name: month,
+        m: moment(month).format("MM"),
+        y: moment(month).format("YYYY"),
+        items: monthMap[month],
+      });
+    }
+    return monthList;
+  });
+
   eleventyConfig.addCollection("doublePagination", function (collection) {
     // Get unique list of tags
     let tagSet = new Set();

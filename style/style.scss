@@ -77,18 +77,30 @@ body {
     }
   }
 
-  section {
+  .column section {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 48px;
 
-    &.about {
+    .container {
+      padding: 8px;
       text-align: center;
     }
 
     h4.title {
       padding-bottom: 12px;
     }
+
+    p {
+      margin: 0 0 12px;
+      line-height: normal;
+    }
+
+    .li {
+      padding-bottom: 5px;
+    }
+
     .link {
       display: block;
       padding-bottom: 5px;

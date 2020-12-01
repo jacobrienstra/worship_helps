@@ -29,10 +29,38 @@ html
               p Welcome! This website is intended for thoughtful but harried worship planners. We invite you to explore the resources available here for planning and leading worship.
               p Since this is a collaborative effort, we also invite you to contribute. All are welcome to comment freely; if you are interested in becoming a posting member of this community, please click here.
               p If you don't want to post regularly, but do have a question, or want us the community to address a particular issue, feel free to email.
+          section.contributers
+            h4.title Contributers
+            .container
+              .li Tom Trinidad
+              .li Thomas Nelson
+              .li Taylor Burton-Edwards
+              .li Ron Rienstra
+              .li Peter Armstrong
+              .li Kevin Anderson
+              .li Kent Hendricks
+              .li Kendra Hotz
+              .li John Williams
+              .li John Thornburg
+              .li Guy Higashi
+              .li Greg Scheer
+              .li Eric Herron
+              .li Debra Avery
+              .li Clay Schmit
+              .li Chip Andrus
+              .li Brian Paulson
+              .li Brad Andrews
+              .li Bob Keeley
+              .li Andrew Donaldson
         .column.col-2-of-3
           block col2
         .column.col-3-of-3
           section.categories
             h4.title Categories
-            each cat in Object.keys(collections).filter(key => !['all', 'post', 'doublePagination'].includes(key)).sort()
-              a(href=`/worship_helps/${cat}/`).link #{cat}
+            .container
+              each cat in Object.keys(collections).filter(key => !['all', 'post', 'doublePagination'].includes(key)).sort()
+                a(href=`/worship_helps/${cat}/`).link #{cat}
+          section.archives
+            h4.title archives
+            .container 
+
