@@ -4,6 +4,7 @@ const lodash = require("lodash");
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(pluginSass);
+  eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addCollection("archive", function (collection) {
     let monthMap = {};
     collection.getAllSorted().map(function (item) {

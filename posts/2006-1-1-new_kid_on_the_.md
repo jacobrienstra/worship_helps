@@ -20,7 +20,7 @@ tags:
   - Music
   - post
 ---
-[![Andrewd](https://worshiphelps.blogs.com/worship_helps/images/andrewd.jpg "Andrewd")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/andrewd.jpg) First, some words of introduction. This will serve not only to let you know something about me - Andrew Donaldson -- but also to introduce some of the subject areas that I am passionate about.
+[![Andrewd](/img/andrewd.jpg "Andrewd")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/andrewd.jpg) First, some words of introduction. This will serve not only to let you know something about me - Andrew Donaldson -- but also to introduce some of the subject areas that I am passionate about.
 
 I am Pastoral Musician and Worship Enlivener (more on that title in a moment) at [Trafalgar Presbyterian Church](http://www.trafalgarchurch.ca/) in Oakville, Ontario, Canada. I am currently President of the [Hymn Society in the US and Canada](http://www.thehymnsociety.org/).   And along with my wife, I am part of [Hilariter](http://www.hilariter.ca/index.html), an inter-denominational group of singers and players, based in Toronto, Canada, committed to diversity in worship and to exploring the worship resources available from around the world.
 

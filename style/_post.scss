@@ -21,38 +21,38 @@ article {
 
   section.article {
     margin-bottom: 48px;
+  }
 
-    .post-title {
-      margin-bottom: 12px;
-    }
+  .post-title {
+    margin-bottom: 12px;
+  }
 
-    .post-date {
-      padding-bottom: 16px;
-      border-bottom: 2px dashed var(--blue);
-    }
+  .post-date {
+    padding-bottom: 16px;
+    border-bottom: 2px dashed var(--blue);
+  }
 
-    a.continue {
-      color: var(--grey);
-      text-decoration: underline;
-    }
+  a.continue {
+    color: var(--grey);
+    text-decoration: underline;
+  }
 
-    .post-content {
-      a {
-        color: var(--red);
-        &.continue {
-          display: block;
-          margin-top: 12px;
-        }
+  .post-content {
+    a {
+      color: var(--red);
+      &.continue {
+        display: block;
+        margin-top: 12px;
       }
-      margin-bottom: 12px;
     }
+    margin-bottom: 12px;
+  }
 
-    .post-footer {
-      color: var(--grey);
+  .post-footer {
+    color: var(--grey);
 
-      a.tag-link {
-        display: inline-block;
-      }
+    a.tag-link {
+      display: inline-block;
     }
   }
 
