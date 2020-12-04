@@ -15,40 +15,70 @@
 }
 
 article {
-  &.post-list {
+  section.article {
     margin-bottom: 48px;
-  }
 
-  .post-title {
-    margin-bottom: 12px;
-  }
+    &.post-list {
+      margin-bottom: 48px;
+    }
 
-  .post-date {
-    padding-bottom: 16px;
-    border-bottom: 2px dashed var(--blue);
-  }
+    .post-title {
+      margin-bottom: 12px;
+    }
 
-  a.continue {
-    color: var(--grey);
-    text-decoration: underline;
-  }
+    .post-date {
+      padding-bottom: 16px;
+      border-bottom: 2px dashed var(--blue);
+    }
 
-  .post-content {
-    a {
-      color: var(--red);
-      &.continue {
-        display: block;
-        margin-top: 12px;
+    a.continue {
+      color: var(--grey);
+      text-decoration: underline;
+    }
+
+    .post-content {
+      a {
+        color: var(--red);
+        &.continue {
+          display: block;
+          margin-top: 12px;
+        }
+      }
+      margin-bottom: 12px;
+    }
+
+    .post-footer {
+      color: var(--grey);
+
+      a.tag-link {
+        display: inline-block;
       }
     }
-    margin-bottom: 12px;
   }
 
-  .post-footer {
-    color: var(--grey);
+  section.comments {
+    .comment-header {
+      margin-bottom: 8px;
+    }
+    .comment-container {
+      padding: 12px;
+      line-height: 1.6;
+      white-space: break-spaces;
+      border-bottom: 1px dotted var(--grey);
 
-    a.tag-link {
-      display: inline-block;
+      span.author-name {
+        color: var(--red);
+        font-weight: 700;
+      }
+      .post-content {
+        margin-left: 48px;
+      }
+      .post-footer {
+        margin-top: 8px;
+        color: var(--red);
+        font-weight: 700;
+        text-align: right;
+      }
     }
   }
 }
