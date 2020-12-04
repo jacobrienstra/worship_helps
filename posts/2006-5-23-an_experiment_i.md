@@ -25,7 +25,9 @@ tags:
   - post
 ---
 Paul’s sermon in Athens (Acts 17:22-31) is substantially different from any of his other sermons. While his other sermons are identifiably Pharisaical and present the gospel in a way that would be accessible to a predominantly Jewish audience, the Athenian sermon employs patterns and concepts which were common to first century Athens. It is a significant and noteworthy accomplishment on Paul’s part and it may be taken as a mandate to subsequent Christians always to be prepared to articulate the gospel message using new and distinct cultural patterns. While the content of the Gospel is always consistent, the form in which the good news of Jesus Christ is presented should always be flexible. What follows are excerpts from a somewhat playful worship service that was designed to illustrate to a worshiping community the issues and possibilities involved in attempting to articulate a Christian worship service in a particular context.   College students, youth, and children are often engaged by this way of distinguishing between what is essential and what is negotiable in worship.   Read the liturgy after the jump.
-***
+
+\*\*\*
+
 SCRIPTURE LESSON AND PROCLAMATION—
 
 Luke 10:30-37 and [Horton Hears a Who](http://www.amazon.com/gp/product/0394800788/103-5407787-3041462?v=glance&n=283155) (Theodore Geisel, 1934)

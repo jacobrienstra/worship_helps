@@ -31,7 +31,9 @@ Here is one suggestion for addressing these deficiencies while accomplishing a n
 3) making room within the prayer not only for speaking, but for listening to God's voice.
 
 More details after the jump.
-***
+
+\*\*\*
+
 At the appropriate point in the service, a leader/liturgist introduces the prayers of the people with words that connect with the theme of the sermon and perhaps the service itself. 
 
 For example, if the service was based on the readings for Proper 7, year B of the Revised Common Lectionary (Jesus stilling the storm and associated texts), the leader might use words like these:

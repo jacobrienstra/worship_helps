@@ -24,6 +24,6 @@ tags:
 
 We wanted to create a dramatic launch to the service ("Here we go!") without succumbing to the cultural forces that pull us toward making the whole thing an entertaining show ("Ladies and Gentlemen!  Your attention please!")
 
-We decided to begin with an appropriate greeting -- in the Lord's name, if not in the Lord's voice -- and then remind each other of why we've gathered: to worship, to renew the covenant of grace between God and God's people.  What we came up with was a short opening song.  Click [here](http://worshiphelps.blogs.com/TLBWY.opening.pdf) for the music in lead sheet format.  And [here](http://worshiphelps.blogs.com/TLBWY.opening.mp3) for an Mp3 recording.
+We decided to begin with an appropriate greeting -- in the Lord's name, if not in the Lord's voice -- and then remind each other of why we've gathered: to worship, to renew the covenant of grace between God and God's people.  What we came up with was a short opening song.  Click [here](/img/shared/TLBWY.opening.pdf) for the music in lead sheet format.  And [here](/img/shared/TLBWY.opening.mp3) for an Mp3 recording.
 
 It's free for anyone's use - but do report that use to CCLI.

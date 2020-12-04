@@ -33,4 +33,4 @@ The music lives in our soul long after we've left the worship space, drawing us 
 
 Singing also gives children an access into the scripture reading: they can remember short texts and repeated melodies and rhythms. Parents in my church community often ask me how to get their children to stop singing - over and over and over - music they learned in church.
 
-For a downloadable .pdf file of this song, click [here](http://worshiphelps.blogs.com/Pour.pdf).  For an .mp3 file to listen to, click [here](http://worshiphelps.blogs.com/Pour.mp3).
+For a downloadable .pdf file of this song, click [here](/img/shared/Pour.pdf).  For an .mp3 file to listen to, click [here](/img/shared/Pour.mp3).

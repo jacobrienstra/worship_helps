@@ -24,8 +24,10 @@ tags:
   - Visual Art
   - post
 ---
- [![Advent_wreath_marklin](/img/advent_wreath_marklin.jpg "Advent_wreath_marklin")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/advent_wreath_marklin.jpg) The season of Advent is the beginning of the church year. If you follow the lectionary readings for this season you will find that they are accounts of prophets proclaiming the coming of God’s kingdom and anticipation of the coming of the messiah. We re-live this anticipation through these texts, our music, and even the way creation enters more deeply into darkness until the passing of the winter solstice.
-***
+ [![Advent_wreath_marklin](/img/advent_wreath_marklin.jpg "Advent_wreath_marklin")](/img/shared/advent_wreath_marklin.jpg) The season of Advent is the beginning of the church year. If you follow the lectionary readings for this season you will find that they are accounts of prophets proclaiming the coming of God’s kingdom and anticipation of the coming of the messiah. We re-live this anticipation through these texts, our music, and even the way creation enters more deeply into darkness until the passing of the winter solstice.
+
+\*\*\*
+
 **History and Symbolism**
 
 The Advent wreath has its roots in northern European pre-Christian practices where people sought the return of the sun in the darkest time of the year (at the winter solstice) by lighting candles and fires. By the middle ages, Christians used fire and light to represent Christ's coming into the world. Using this same symbolism, the Advent wreath developed a few centuries ago in Germany. The advent wreath signifies waiting and hopeful expectation, looking forward to both Christ’s birth and to Christ’s coming again at the end of time. The circular shape of the wreath represents eternal life. The evergreens signify the faithfulness of God and the lighted candles reminder us of the light of Christ in the world.

@@ -1,9 +1,12 @@
 mixin postFooter(post)
-  .post-footer Posted at #{global.moment(post.date).format('mm:ss A')} in 
-    each tag, i in post.tags.filter(e => e !== 'post')
-      a(href=`/worship_helps/${global.slug(tag, "_")}`).tag-link #{tag}
-      if (i !== post.tags.length-2)
-        |,&nbsp
+  - var categories = post.tags.filter(e => e !== 'post');
+  .post-footer Posted at #{global.moment(post.date).format('h:mm A')}
+    if (categories.length > 0)
+      |  in 
+      each tag, i in categories
+        a(href=`/worship_helps/${global.slug(tag, "_")}`).tag-link #{tag}
+        if (i !== post.tags.length-2)
+          |,&nbsp
     span  | 
     a(href=post.permalink)
       i.fas.fa-link
@@ -11,7 +14,7 @@ mixin postFooter(post)
     if (post.comments .length > 0)
       span  | 
       a(href=post.permalink)
-        i.fas.fa-comment
+        i.far.fa-comment
         |  Comments (#{post.comments.length})
 
 mixin postList(post)

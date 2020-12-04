@@ -82,7 +82,9 @@ See if you can find the phrase in question.  Here are the lyrics:
 > ©2000 worshiptogether.com songs (Admin. by EMI Christian Music Publishing); sixsteps Music (Admin. by EMI Christian Music Publishing)
 
 What was the phrase in question?
-***
+
+\*\*\*
+
 The answer is "God of Jacob."  My friend wanted to know what that meant.  Here is what I said to him:
 
 > Great question!  Quick history lesson:  Jacob was the third Biblical patriarch. His father was Isaac, and his grandfather was Abraham. Jacob, together with Esau, was born to Isaac and Rebeccah after 20 years of marriage, at which time his father was 60 (Genesis 25:26), and Abraham was 160 years old.

@@ -60,7 +60,9 @@ tags:
 The first problem is theologically inspired boredom: we are growing weary of planning and leading the same twenty minutes of “opening exercises” every week. The dominant feature of our pre-sermon worship time is a significant chunk of music interspersed with words of welcome and perhaps a prayer or two. In the past months we’ve worked hard at intentionally selecting congregational songs that have cultural breadth, theological depth, and liturgical clarity. Still, the logistics of the service (including the architectural shape of our space) leave us with a default organizational ordo with which we are increasingly uncomfortable. It is an order that feels not blessedly simple but distressingly simplistic: songs (led by a group from the right hand side), followed by a sermon (preached by a professor from the left hand side).
 
 The other problems we’re struggling with are thematic coherence and sacramental expectation.
-***
+
+\*\*\*
+
 The seminary professors who are asked to preach each week are notoriously tardy in selecting the Scripture and theme for their sermons. Thus, the chapel staff is left to plan the preparatory worship time (singing) with no clue about what we’re preparing for. This is problematic because for some in our worshiping community, the sermon is perceived as the primary locus for encountering God. The musicians, then, feel this burden: the music we sing must serve that encounter or risk total irrelevance. Or something even worse.
 
 For others in our community, music itself has taken on sacramental qualities. For these folks the primary means by which the gracious promises of God in Jesus Christ are made tangible and real is in congregational song. Like it or not, that is a lot of freight to haul with two guitars and three chords. We are keenly feeling the need to find a better way to manage expectations for meeting God in worship.

@@ -22,12 +22,14 @@ tags:
 ---
 We have written before ([here](http://worshiphelps.blogs.com/worship_helps/2006/04/recovering_test.html), [here](http://worshiphelps.blogs.com/worship_helps/2006/02/further_thought.html), and [here](http://worshiphelps.blogs.com/worship_helps/2006/02/where_to_put_th.html)) about incorporating lament into worship.  Most often such prayers are corporate rather than individual.  The harsh language of the Psalmic lament is difficult for most individuals to appropriate in their own devotional lives.  We have somehow learned that asking questions of God is irreverent, especially if those questions have a rebuking tone.  But the Psalms teach us that such questions are a central part of a relationship with God, and Scripture as a whole teaches us that God can probably handle our mild rants once in a while. 
 
-[![Lament](/img/lament.jpg "Lament")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/lament.jpg) One interesting way to encourage folks to pray prayers of lament (whether publically or privately) is to prompt the prayers with an interrogative word, like "why" or "where" or "when" or "how long."  (The phrase "how long", in fact, is used over 20 times in the Psalms alone.)  This way, our prayers for peace in the Middle East, for example, are not merely petitions for wise leadership; they become  expressions of our own helplessness: "When, O Lord, will your children in the Middle East stop firing rockets at one another?" 
+[![Lament](/img/lament.jpg "Lament")](/img/shared/lament.jpg) One interesting way to encourage folks to pray prayers of lament (whether publically or privately) is to prompt the prayers with an interrogative word, like "why" or "where" or "when" or "how long."  (The phrase "how long", in fact, is used over 20 times in the Psalms alone.)  This way, our prayers for peace in the Middle East, for example, are not merely petitions for wise leadership; they become  expressions of our own helplessness: "When, O Lord, will your children in the Middle East stop firing rockets at one another?" 
 
 After the jump is a short devotional service based on this idea.  It embeds the prayer of lament within both a sung Kyrie and a concluding Alleluia.  It also contextualizes the prayer  -- both the lament and the declaration of God's ultimate sovereignty -- as continuous with the "words of the faithful in all times and places."
 
-Art courtesy [Mary Ann Bartley](http://jeffline.jefferson.edu/SML/art/aerobics/index.html)
-***
+Art courtesy [Mary Ann Bartley](http://jeffline.jefferson.edu/SML/art/aerobics/index.html)  
+
+\*\*\*
+
 The Lord be with you.  
 **And also with you.**  
   
@@ -50,7 +52,7 @@ One:   The reign of God is coming.
 **Sing: Kyrie eleison**
 
 \* \* \* \* \*  
-[![Image1](http://worshiphelps.blogs.com/worship_helps/images/image1.jpg "Image1")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/image1.jpg) Hear the words of the faithful in all times and places:
+[![Image1](/img/image1.jpg "Image1")](/img/shared/image1.jpg) Hear the words of the faithful in all times and places:
 
 > How long, O Lord?  
 > Will you forget me forever?  

@@ -48,10 +48,12 @@ tags:
   - Music
   - post
 ---
-[![What](/img/what.jpg "What")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/2007/03/28/what.jpg)Many Christian traditions suffer from a lack of musical resources on the issue of justice.  Here is one based on Micah 6:8 you might try.  It is written in the style of a [Taize](http://taize.fr/en) chant.  In other words, it is a simple line of scripture set to a repeatable refrain.  It can be used in worship on its own as a canticle (scripture set to music), sung as a refrain to prayer petitions, or interspersed with scripture readings. 
+[![What](/img/what.jpg "What")](/img/shared/what.jpg)Many Christian traditions suffer from a lack of musical resources on the issue of justice.  Here is one based on Micah 6:8 you might try.  It is written in the style of a [Taize](http://taize.fr/en) chant.  In other words, it is a simple line of scripture set to a repeatable refrain.  It can be used in worship on its own as a canticle (scripture set to music), sung as a refrain to prayer petitions, or interspersed with scripture readings. 
 
-Click [here](http://worshiphelps.blogs.com/worship_helps/files/what_does_the_lord_require.pdf) for the PDF.  Click [here](http://worshiphelps.blogs.com/worship_helps/files/what_does_the_lord_requirepiano.mp3) for the MP3.
-***
+Click [here](/img/shared/what_does_the_lord_require.pdf) for the PDF.  Click [here](/img/shared/what_does_the_lord_requirepiano.mp3) for the MP3.
+
+\*\*\*
+
 This Taize type chant was originally composed for use by the worshipping community of Fuller Seminary in Pasadena, California.  Micah 6:8 is the theme verse for the 2006-7 for seminary chapel program.  This song can be used without further permission if the following line of credit is provided:
 
 Copyright 2006, Clayton J. Schmit.  Used with permission.  For additional use, contact cjs@fuller.edu.

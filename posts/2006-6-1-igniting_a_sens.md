@@ -27,10 +27,12 @@ Are we losing our sense of “awe”? I find myself overwhelmed by rocketing gas
 Saliers encourages us to reconnect real life to the worship of the God of the Universe!
 
 He accents Jaroslav Vajda’s new hymn “God of the Sparrow God of the Whale” which crosses generational lines and is a contemporary way to express to our awe in biblical tradition.  Lyrics after the jump...
-***
+
+\*\*\*
+
 \* \* \* \* \* \* \*
 
-    God of the sparrow God of the whale[![God_of_the_sparrow](http://worshiphelps.blogs.com/worship_helps/images/god_of_the_sparrow.jpg "God_of_the_sparrow")](http://www.amazon.com/gp/product/0819218723/qid=1149271598/sr=1-2/ref=sr_1_2/103-5407787-3041462?s=books&v=glance&n=283155)  
+    God of the sparrow God of the whale[![God_of_the_sparrow](/img/god_of_the_sparrow.jpg "God_of_the_sparrow")](http://www.amazon.com/gp/product/0819218723/qid=1149271598/sr=1-2/ref=sr_1_2/103-5407787-3041462?s=books&v=glance&n=283155)  
     God of the swirling stars  
     How does the creature say Awe  
     How does the creature say Praise

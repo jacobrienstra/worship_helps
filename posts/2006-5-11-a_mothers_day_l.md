@@ -56,7 +56,9 @@ tags:
   - post
 ---
 Last year we used this Mother's Day liturgy and it received a warm reception. It's inclusive of women in all stages of life.
-***
+
+\*\*\*
+
 **Mothers’ Day Liturgy**
 
 Lord, on this day set aside to honor and remember mothers, we give you thanks for our mothers. We are grateful that you chose to give us life through them, and that they received the gift of life from your hands, and gave it to us. Thank you for the sacrifices they made in carrying us and giving us birth.

@@ -57,7 +57,7 @@ tags:
   - Ordo
   - post
 ---
-[![Mpaperlament24mm](/img/mpaperlament24mm.jpg "Mpaperlament24mm")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/mpaperlament24mm.jpg) After being persuaded that we need to be more serious about lament in our worship, we have been struggling with where to put it in the service.  There seems to be no natural place in our order of service where it "fits."  Then someone at a planning meeting suggested we replace the confession one week with a lament.  Not to avoid our own sin, but to recognize that our personal sin is caught up in the brokenness of the whole world.  We lament then, and say not so much "I _have_ messed up" but "I _am_ messed up." 
+[![Mpaperlament24mm](/img/mpaperlament24mm.jpg "Mpaperlament24mm")](/img/shared/mpaperlament24mm.jpg) After being persuaded that we need to be more serious about lament in our worship, we have been struggling with where to put it in the service.  There seems to be no natural place in our order of service where it "fits."  Then someone at a planning meeting suggested we replace the confession one week with a lament.  Not to avoid our own sin, but to recognize that our personal sin is caught up in the brokenness of the whole world.  We lament then, and say not so much "I _have_ messed up" but "I _am_ messed up." 
 
 But then there is another difficulty: what is the appropriate response to lament?  After a confession, we long to hear words of God's forgiveness:  "As far as the east is from the west, so far do I remove your transgressions from you."  This doesn't seem quite right when we're talking about racism and environmental degradation and cancer. 
 

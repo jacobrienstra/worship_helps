@@ -22,43 +22,81 @@ stream.on("error", function (err) {
 
 stream.on("entry", async function (entry) {
   if (entry.body) {
-    const Cheerio = cheerio.load(entry.body);
-    Bluebird.map(Cheerio("img").toArray(), async (el) => {
-      const src = Cheerio(el).attr("src");
-      const fileName = getFileNameFromUri(src);
-      const path = Path.resolve(__dirname, "img", fileName);
+    var body = entry.body;
+    if (entry.extendedBody) {
+      body += "\n***\n" + entry.extendedBody;
+    }
+    const Cheerio = cheerio.load(body);
+    Bluebird.map(
+      Cheerio("img").toArray().concat(Cheerio("a").toArray()),
+      async (el) => {
+        if (el.name === "img") {
+          const imgSrc = Cheerio(el).attr("src");
+          const fileName = getFileNameFromUri(imgSrc);
+          const imgPath = Path.resolve(__dirname, "img", fileName);
 
-      const response = await axios({
-        method: "get",
-        url: src,
-        responseType: "stream",
-      }).catch(() => {});
+          const imgResponse = await axios({
+            method: "get",
+            url: imgSrc,
+            responseType: "stream",
+          }).catch(() => {});
 
-      if (response) {
-        response.data.pipe(fs.createWriteStream(path));
+          if (imgResponse) {
+            imgResponse.data.pipe(fs.createWriteStream(imgPath));
 
-        Cheerio(el).attr("src", "/img/" + fileName);
+            Cheerio(el).attr("src", imgPath.replace(__dirname, ""));
 
-        await new Promise((resolve, reject) => {
-          response.data.on("end", () => {
-            resolve();
-          });
+            await new Promise((resolve, reject) => {
+              imgResponse.data.on("end", () => {
+                resolve();
+              });
 
-          response.data.on("error", () => {
-            reject();
-          });
-        });
+              imgResponse.data.on("error", () => {
+                reject();
+              });
+            });
+          }
+        } else if (el.name === "a") {
+          let aHref = Cheerio(el).attr("href");
+          if (
+            /http(s)?:\/\/worshiphelps.blogs.com/.test(aHref) &&
+            /pdf$|jpg$|jpeg$|png$|mp3$/.test(aHref)
+          ) {
+            aHref = aHref.replace(".shared/image.html?/", "");
+            const fileName = getFileNameFromUri(aHref);
+            const imgPath = Path.resolve(__dirname, "img/shared/", fileName);
+
+            const imgResponse = await axios({
+              method: "get",
+              url: aHref,
+              responseType: "stream",
+            }).catch((e) => {});
+
+            if (imgResponse) {
+              imgResponse.data.pipe(fs.createWriteStream(imgPath));
+
+              Cheerio(el).attr("href", imgPath.replace(__dirname, ""));
+
+              await new Promise((resolve, reject) => {
+                imgResponse.data.on("end", () => {
+                  resolve();
+                });
+
+                imgResponse.data.on("error", () => {
+                  reject();
+                });
+              });
+            }
+          }
+        }
       }
-    }).then(() => {
+    ).then(() => {
       let body = Cheerio.html();
       if (entry.data.status === "Publish") {
         let [month, date, year] = entry.data.date
           .toLocaleDateString()
           .split("/");
         body = service.turndown(body);
-        if (entry.extendedBody) {
-          body += "\n***\n" + service.turndown(entry.extendedBody);
-        } // TODO: add to processing
         let permalink = entry.data.uniqueUrl.replace(
           "https://worshiphelps.blogs.com",
           ""

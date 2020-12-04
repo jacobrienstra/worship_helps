@@ -22,12 +22,14 @@ tags:
   - Words
   - post
 ---
-[![You_make_blessing_1](/img/you_make_blessing_1.jpg "You_make_blessing_1")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/you_make_blessing_1.jpg) A chapel service I helped plan recently juxtaposed the dominant community calendar (the academic one) with the church's liturgical calendar.  So the chapel service the week before Ascension Day was entitled "The Blessing of Week Nine." 
+[![You_make_blessing_1](/img/you_make_blessing_1.jpg "You_make_blessing_1")](/img/shared/you_make_blessing_1.jpg) A chapel service I helped plan recently juxtaposed the dominant community calendar (the academic one) with the church's liturgical calendar.  So the chapel service the week before Ascension Day was entitled "The Blessing of Week Nine." 
 
 One of the neat features of the service was a skit composed and improvised by seminarians that illustrated the contrast between the flippant way we use the word "blessing" and the powerful way the word is understood in scripture. 
 
 They did this by juxtaposing funny 3-4 line sketches with longer scriptural or other readings.  Examples of both after the jump.
-***
+
+\*\*\*
+
 A: (singing to self) God bless
 
 America

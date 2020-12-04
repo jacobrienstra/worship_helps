@@ -36,7 +36,9 @@ so we keep waiting
 waiting on the world to change  
 we keep on waiting  
 waiting on the world to change
-***
+
+\*\*\*
+
 In this season of Advent, this season of waiting, what does this song say about us? John claims that he is not alone in being misunderstood and “waiting for the world to change”. What kind of waiting do people of faith do? What did our ancestors do while waiting for the messiah? Is there such a thing as active waiting? How does “Prepare Ye the Way of the Lord” resonate with John Mayer’s description of how he and all his friends are waiting? John goes on to say in the last verse of his song:
 
   

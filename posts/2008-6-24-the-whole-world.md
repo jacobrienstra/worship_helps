@@ -22,7 +22,7 @@ tags:
   - Prayer
   - post
 ---
-[![World_in_black_and_white_hands](/img/world_in_black_and_white_hands.jpg "World_in_black_and_white_hands")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/2008/06/24/world_in_black_and_white_hands.jpg) Years ago, when I worked as a chaplain at [Central College](http://www.central.edu/), I had a colleague who used to get together with me regularly to pray for our students.  We did so not only because we believed it would make a difference for them, but because we knew it made a difference for us.  Praying for Jennifer and Scott as they worked through the pain of their parents’ divorces in anticipation of being married themselves, praying for Kim as she struggled with anorexia, with Mark as he battled addiction – these prayers helped remind us that though we are to be faithful and diligent in the ministries God has given us, in the end the sun does not rise, and the crops do not grow, and people are not made whole, and the kingdom does not come by dint of our own effort.
+[![World_in_black_and_white_hands](/img/world_in_black_and_white_hands.jpg "World_in_black_and_white_hands")](/img/shared/world_in_black_and_white_hands.jpg) Years ago, when I worked as a chaplain at [Central College](http://www.central.edu/), I had a colleague who used to get together with me regularly to pray for our students.  We did so not only because we believed it would make a difference for them, but because we knew it made a difference for us.  Praying for Jennifer and Scott as they worked through the pain of their parents’ divorces in anticipation of being married themselves, praying for Kim as she struggled with anorexia, with Mark as he battled addiction – these prayers helped remind us that though we are to be faithful and diligent in the ministries God has given us, in the end the sun does not rise, and the crops do not grow, and people are not made whole, and the kingdom does not come by dint of our own effort.
 
 No, the world belongs to God.  It has been entrusted to us, yes, but it is ultimately in God’s hands.  What a good thing for type A people to remember every day!
 
@@ -35,7 +35,9 @@ Musically, I played a James Taylor-esque accompaniment (think “[Secret of Life
 For the shape of the prayer itself, we allowed the song’s verses to suggest thematic areas for prayer (“tiny little baby” = family concerns;  “wind and the rain” = creation care, etc.)  I then augmented those verses, following [my own advice](http://reformedworship.org/magazine/article.cfm?article_id=1912) to speak with emotional specificity for the lost and the lonely, the weak and the wounded, the whole and the hopeful.
 
 Full text of the prayer, lead sheet (click on the thumbnail), and MP3 demo after the jump.
-***
+
+\*\*\*
+
 SUNG: **You’ve got the whole world in your hands…**  
 Gracious God, we pray today for this whole world,      
   created good and beautiful,         
@@ -115,5 +117,5 @@ The whole world -- the God of power, the God of love
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-[![Wholeworld_2](http://worshiphelps.blogs.com/worship_helps/images/2008/06/24/wholeworld_2.jpg "Wholeworld_2")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/2008/06/24/wholeworld_2.jpg) Click on the thumbnail for the leadsheet,  
-and right [here](http://worshiphelps.blogs.com/WholeWorld.mp3) for a rough MP3 demo to hear what it sounds like.
+[![Wholeworld_2](/img/wholeworld_2.jpg "Wholeworld_2")](/img/shared/wholeworld_2.jpg) Click on the thumbnail for the leadsheet,  
+and right [here](/img/shared/WholeWorld.mp3) for a rough MP3 demo to hear what it sounds like.

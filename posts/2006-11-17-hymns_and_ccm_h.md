@@ -23,7 +23,9 @@ tags:
 I listened to a number of CCM artists recently for an article I was writing for _[The Hymn](www.hymnsociety.org)_, and what surprised me was how often they quoted the words of well-known hymns. Jars of Clay, Kirk Franklin, Selah, DC Talk, Newsboys, all slip easily from pop vernacular into the heightened language taken directly from Isaac Watts, Charles Wesley or Fanny Crosby.
 
 At first, I found it odd, even though I knew the work of some of them. Where does this come from? Isn't the idea of “contemporary” music to be, well, contemporary? Aren't contemporary artists supposed to be exploring a contemporary language of worship along with the contemporary musical idiom they are exploring?
-***
+
+\*\*\*
+
 There's a cynical take on this. CCM artists are putting out hymn “product” In the same way that any commercial act will produce a Christmas album. Let's face it: Christmas piety sells. A Christian audience responds, at least in part, to the familiar cadences of traditional hymnody.
 
 But the cynical take will only take us so far. For one thing, there is a huge segment of the Christian church for whom hymns have no nostalgic connection. They were raised on contemporary pop music on their car radio, CCM on their CD players, with praise and worship music forming a large part of their worship.
