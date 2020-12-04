@@ -8,6 +8,11 @@ mixin postFooter(post)
     a(href=post.permalink)
       i.fas.fa-link
       |  Permalink
+    if (post.comments .length > 0)
+      span  | 
+      a(href=post.permalink)
+        i.fas.fa-comment
+        |  Comments (#{post.comments.length})
 
 mixin postList(post)
   article.post-list

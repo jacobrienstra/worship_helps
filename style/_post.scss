@@ -15,12 +15,12 @@
 }
 
 article {
+  &.post-list {
+    margin-bottom: 48px;
+  }
+
   section.article {
     margin-bottom: 48px;
-
-    &.post-list {
-      margin-bottom: 48px;
-    }
 
     .post-title {
       margin-bottom: 12px;

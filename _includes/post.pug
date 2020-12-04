@@ -7,11 +7,12 @@ block col2
       h3.post-title #{title}
       h5.post-date #{global.moment(date).format('MMMM DD, YYYY')}
       .post-content !{content}
-      +postFooter({date: date, tags: tags, permalink: permalink})
-    section.comments
-      h3.comment-header Comments
-      each comment in comments
-        .comment-container
-          .author #[span.author-name #{comment.author}] said...
-          .post-content !{comment.text}
-          .post-footer #{global.moment(comment.date).format("MMMM D, YYYY [at] HH:mm A")}
+      +postFooter({date: date, tags: tags, permalink: permalink, comments: comments})
+    if (comments.length > 0)
+      section.comments
+        h3.comment-header Comments
+        each comment in comments
+          .comment-container
+            .author #[span.author-name #{comment.author}] said...
+            .post-content !{comment.text}
+            .post-footer #{global.moment(comment.date).format("MMMM D, YYYY [at] HH:mm A")}
