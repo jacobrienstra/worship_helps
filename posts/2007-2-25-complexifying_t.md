@@ -55,7 +55,7 @@ tags:
   - Ordo
   - post
 ---
-[![Worshiptodo_1](/img/worshiptodo_1.gif "Worshiptodo_1")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/worshiptodo_1.gif) As we plan weekly worship here at Fuller Seminary, the worship interns and I have been talking quite a bit lately about three persistent and related problems.
+[![Worshiptodo_1](/img/worshiptodo_1.gif "Worshiptodo_1")](/img/shared/worshiptodo_1.gif) As we plan weekly worship here at Fuller Seminary, the worship interns and I have been talking quite a bit lately about three persistent and related problems.
 
 The first problem is theologically inspired boredom: we are growing weary of planning and leading the same twenty minutes of “opening exercises” every week. The dominant feature of our pre-sermon worship time is a significant chunk of music interspersed with words of welcome and perhaps a prayer or two. In the past months we’ve worked hard at intentionally selecting congregational songs that have cultural breadth, theological depth, and liturgical clarity. Still, the logistics of the service (including the architectural shape of our space) leave us with a default organizational ordo with which we are increasingly uncomfortable. It is an order that feels not blessedly simple but distressingly simplistic: songs (led by a group from the right hand side), followed by a sermon (preached by a professor from the left hand side).
 

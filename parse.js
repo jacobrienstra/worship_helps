@@ -60,7 +60,7 @@ stream.on("entry", async function (entry) {
           let aHref = Cheerio(el).attr("href");
           if (
             /http(s)?:\/\/worshiphelps.blogs.com/.test(aHref) &&
-            /pdf$|jpg$|jpeg$|png$|mp3$/.test(aHref)
+            /pdf$|jpg$|jpeg$|png$|gif$|mp3$|mid$|m4a$/.test(aHref)
           ) {
             aHref = aHref.replace(".shared/image.html?/", "");
             const fileName = getFileNameFromUri(aHref);

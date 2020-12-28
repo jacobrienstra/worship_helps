@@ -32,6 +32,6 @@ But more than that, I suggested that using water from this natural resource -- s
 
 I was thinking about all of this yesterday as I visited a local Children's Sculpture Garden and watched my own children play in a large reproduction of the Great Lakes.
 
-[![Great_lakes](/img/great_lakes.gif "Great_lakes")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/great_lakes.gif)As I splashed my head with the cool, clear water (it was a hot day), I thought to myself: "What a great place to have a baptism service!"  There is easily room around the perimeter of the scultpure for an average-sized congregation  -- maybe 100 people.  (In the real world we call this the "fourth coast," and it is home to about 30 million, or 1/10 the US population). 
+[![Great_lakes](/img/great_lakes.gif "Great_lakes")](/img/shared/great_lakes.gif)As I splashed my head with the cool, clear water (it was a hot day), I thought to myself: "What a great place to have a baptism service!"  There is easily room around the perimeter of the scultpure for an average-sized congregation  -- maybe 100 people.  (In the real world we call this the "fourth coast," and it is home to about 30 million, or 1/10 the US population). 
 
 A pastor could dunk the one to be baptized down in that corner by Lake Erie, where there are three bubbling fountains.  Then invite each member of the congregation to put his or her hand in the water, get wet, and remember, in a genuinely aquatic, tactile way, the promises God makes to us, and the responsibilities of our promises in response.

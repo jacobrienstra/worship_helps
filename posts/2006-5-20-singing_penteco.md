@@ -20,7 +20,7 @@ tags:
   - Music
   - post
 ---
-[![Pour](/img/pour.gif "Pour")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/pour.gif)Music adds many layers of meaning - subtle or obvious - to the drama of scripture.
+[![Pour](/img/pour.gif "Pour")](/img/shared/pour.gif)Music adds many layers of meaning - subtle or obvious - to the drama of scripture.
 
 Take Pentecost for example. The story in Acts 2 is rich with allusion, imagery, history, narrative - all of which have filled many books and many sermons. If we frame the reading of the story with a musical response sung by the congregation, we encourage the worshipping community to glimpse more of those layers. More than glimpse: experience.
 
