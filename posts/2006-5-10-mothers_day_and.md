@@ -22,7 +22,7 @@ tags:
   - Theme
   - post
 ---
-In addition to our recent post on Mother’s Day I would add a few more seeds for thought.  During the season of Easter it is appropriate to remember our baptism each Sunday service.  In re-membering our baptism we are re-minded that God has claimed us as children and we have made promises to God to live into the life of Christ.  This means promises to serve others (especially the “least of these”), to be faithful to prayer, breaking bread and taking care of the community of faith as any has need (yes, I’m evoking the last part of Acts chapter 2).  During the rite of baptism the community also makes vows to love, care and nurture those God is claiming through water and the Spirit. We are also called to nurture each other in the faith.[![Imr00035](/img/imr00035.jpg "Imr00035")](/img/shared/imr00035.jpg)
+In addition to our recent post on Mother’s Day I would add a few more seeds for thought.  During the season of Easter it is appropriate to remember our baptism each Sunday service.  In re-membering our baptism we are re-minded that God has claimed us as children and we have made promises to God to live into the life of Christ.  This means promises to serve others (especially the “least of these”), to be faithful to prayer, breaking bread and taking care of the community of faith as any has need (yes, I’m evoking the last part of Acts chapter 2).  During the rite of baptism the community also makes vows to love, care and nurture those God is claiming through water and the Spirit. We are also called to nurture each other in the faith.[![Imr00035](https://worshiphelps.blogs.com/worship_helps/images/imr00035.jpg "Imr00035")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/imr00035.jpg)
 
   
 

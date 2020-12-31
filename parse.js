@@ -57,6 +57,9 @@ stream.on("entry", async function (entry) {
             });
           }
         } else if (el.name === "a") {
+          if (Cheerio(el).attr("href").includes("martha")) {
+            console.log("stop");
+          }
           let aHref = Cheerio(el).attr("href");
           if (
             /http(s)?:\/\/worshiphelps.blogs.com/.test(aHref) &&

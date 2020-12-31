@@ -287,7 +287,7 @@ It is amazing to me that one will elevate one form of worship music style over a
 Sorry Benedict, all musical styles are affiliated with some form of cultural expression. Further, music has no inherent spiritual content. In other words, it is amoral. Music is a message bearer. Lyrics are the message.
 
 Here is the rub. There are those of us who prescribe to the idea that it is Biblical to be missional to our culture \[just read [Acts 13](http://www.gnpcb.org/esv/search/?go=Go&q=Acts+13 "English Standard Version Bible") [\[+/-\]](javascript://)ERROR: You have exceeded your quota of 500 requests per day. Please contact webmaster@gnpcb.org if you have questions.  
-[![This text is from the ESV Bible. Visit www.esv.org to learn about the ESV.](/img/small.7.png "Visit www.esv.org to learn about the ESV Bible")](http://www.esv.org/) & 17\].  So for me, cultural relevance, as it pertains to music, is a non-negotiable.
+[![This text is from the ESV Bible. Visit www.esv.org to learn about the ESV.](http://www.esv.org/assets/buttons/small.7.png "Visit www.esv.org to learn about the ESV Bible")](http://www.esv.org/) & 17\].  So for me, cultural relevance, as it pertains to music, is a non-negotiable.
 
 But I don’t claim that it is a non-negotiable for everyone, depending on their context.
 

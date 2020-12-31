@@ -20,10 +20,10 @@ tags:
   - Music
   - post
 ---
-[![TLBWY.opening](/img/6a00d8341c423653ef01b8d21a28be970c-120wi "TLBWY.opening")](http://worshiphelps.blogs.com/.a/6a00d8341c423653ef01b8d21a28be970c-popup)A few years ago, my worship team tackled the question of how to begin our 'contemporary' worship services.  Sometimes the band would just walk up front and begin to play. Sometimes there'd be a time of teaching new music.   Sometimes there would be a song that felt like a prelude.  Other times there were announcements. 
+[![TLBWY.opening](https://worshiphelps.blogs.com/.a/6a00d8341c423653ef01b8d21a28be970c-120wi "TLBWY.opening")](http://worshiphelps.blogs.com/.a/6a00d8341c423653ef01b8d21a28be970c-popup)A few years ago, my worship team tackled the question of how to begin our 'contemporary' worship services.  Sometimes the band would just walk up front and begin to play. Sometimes there'd be a time of teaching new music.   Sometimes there would be a song that felt like a prelude.  Other times there were announcements. 
 
 We wanted to create a dramatic launch to the service ("Here we go!") without succumbing to the cultural forces that pull us toward making the whole thing an entertaining show ("Ladies and Gentlemen!  Your attention please!")
 
-We decided to begin with an appropriate greeting -- in the Lord's name, if not in the Lord's voice -- and then remind each other of why we've gathered: to worship, to renew the covenant of grace between God and God's people.  What we came up with was a short opening song.  Click [here](/img/shared/TLBWY.opening.pdf) for the music in lead sheet format.  And [here](/img/shared/TLBWY.opening.mp3) for an Mp3 recording.
+We decided to begin with an appropriate greeting -- in the Lord's name, if not in the Lord's voice -- and then remind each other of why we've gathered: to worship, to renew the covenant of grace between God and God's people.  What we came up with was a short opening song.  Click [here](http://worshiphelps.blogs.com/TLBWY.opening.pdf) for the music in lead sheet format.  And [here](http://worshiphelps.blogs.com/TLBWY.opening.mp3) for an Mp3 recording.
 
 It's free for anyone's use - but do report that use to CCLI.

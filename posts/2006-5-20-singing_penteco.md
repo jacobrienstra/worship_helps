@@ -20,7 +20,7 @@ tags:
   - Music
   - post
 ---
-[![Pour](/img/pour.gif "Pour")](/img/shared/pour.gif)Music adds many layers of meaning - subtle or obvious - to the drama of scripture.
+[![Pour](https://worshiphelps.blogs.com/worship_helps/images/pour.gif "Pour")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/pour.gif)Music adds many layers of meaning - subtle or obvious - to the drama of scripture.
 
 Take Pentecost for example. The story in Acts 2 is rich with allusion, imagery, history, narrative - all of which have filled many books and many sermons. If we frame the reading of the story with a musical response sung by the congregation, we encourage the worshipping community to glimpse more of those layers. More than glimpse: experience.
 
@@ -33,4 +33,4 @@ The music lives in our soul long after we've left the worship space, drawing us 
 
 Singing also gives children an access into the scripture reading: they can remember short texts and repeated melodies and rhythms. Parents in my church community often ask me how to get their children to stop singing - over and over and over - music they learned in church.
 
-For a downloadable .pdf file of this song, click [here](/img/shared/Pour.pdf).  For an .mp3 file to listen to, click [here](/img/shared/Pour.mp3).
+For a downloadable .pdf file of this song, click [here](http://worshiphelps.blogs.com/Pour.pdf).  For an .mp3 file to listen to, click [here](http://worshiphelps.blogs.com/Pour.mp3).

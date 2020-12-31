@@ -45,7 +45,7 @@ I've been using a tool for small group worship that has helped bring a fresh twi
 
 I print out twently-four, 8.5 x 11 sheets that each have an artfully fonted, black and white excerpt from the Psalms or some other praise text.  If the room is large, I print out double-copies.  Before leading, I hang these sheets on the walls of the worship space using scotch tape.  Some I hang low on the wall, some eye-level, and some higher.  Some sheets, I scatter on the floor.  It is best to have the sheets three to five feet apart from each other.
 
-[](/img/shared/sp_eg.jpg)[![Sp_eg_1](/img/sp_eg_1.jpg "Sp_eg_1")](/img/shared/sp_eg_1.jpg)  
+[](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/sp_eg.jpg)[![Sp_eg_1](https://worshiphelps.blogs.com/worship_helps/images/sp_eg_1.jpg "Sp_eg_1")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/sp_eg_1.jpg)  
 
 Typically, as I did early this morning for a Fuller D.Min. class, I begin with one song of declaratory praise, sung together.  After that song is finished, I play quietly as I explain the worship excercise, saying:  
 

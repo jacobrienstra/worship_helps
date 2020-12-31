@@ -20,7 +20,7 @@ tags:
   - Prayer
   - post
 ---
-[![16_lords_prayer_nikhil_halder](/img/16_lords_prayer_nikhil_halder.jpg "16_lords_prayer_nikhil_halder")](/img/shared/16_lords_prayer_nikhil_halder.jpg) In order to illustrate and remember the difference between unity and uniformity, our worshiping community occasionally prays the Lord’s Prayer in the following way: Persons who can recite the Lord’s Prayer in a language other than English are invited to do so.  Others are invited to recite the Lord’s Prayer as they learned it.  Participants unfamiliar with the Lord’s Prayer, or who desire to recite it in Spanish are invited to read one of the versions below:
+[![16_lords_prayer_nikhil_halder](https://worshiphelps.blogs.com/worship_helps/images/16_lords_prayer_nikhil_halder.jpg "16_lords_prayer_nikhil_halder")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/16_lords_prayer_nikhil_halder.jpg) In order to illustrate and remember the difference between unity and uniformity, our worshiping community occasionally prays the Lord’s Prayer in the following way: Persons who can recite the Lord’s Prayer in a language other than English are invited to do so.  Others are invited to recite the Lord’s Prayer as they learned it.  Participants unfamiliar with the Lord’s Prayer, or who desire to recite it in Spanish are invited to read one of the versions below:
 
 Our Father                         **Padre nuestro**  
 Who art in heaven                **que estás en los cielos,**  

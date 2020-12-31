@@ -4076,17 +4076,17 @@ UNIQUE URL: https://worshiphelps.blogs.com/worship_helps/2005/12/_the_word_for_c
 DATE: 12/25/2005 11:08:00 AM
 -----
 BODY:
-<p><a href="http://www.marthastewart.com/images/content/recipe/bread_01441_t.jpg" onclick="window.open(this.href, '_blank', 'width=129,height=126,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img border="0" alt="Matzobrei" title="Matzobrei" src="http://www.marthastewart.com/images/content/recipe/bread_01441_t.jpg" style="margin: 0px 5px 5px 0px; float: left; width: 175px; height: 171px;" /></a></p>
+<p><a href="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fassets.marthastewart.com%2Fstyles%2Fwmax-300%2Fd16%2Fgt068_matzobrei2%2Fgt068_matzobrei2_vert.jpg%3Fitok%3DylIYYbql&q=85" onclick="window.open(this.href, '_blank', 'width=129,height=126,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img border="0" alt="Matzobrei" title="Matzobrei" src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fassets.marthastewart.com%2Fstyles%2Fwmax-300%2Fd16%2Fgt068_matzobrei2%2Fgt068_matzobrei2_vert.jpg%3Fitok%3DylIYYbql&q=85" style="margin: 0px 5px 5px 0px; float: left; width: 175px; height: 171px;" /></a></p>
 
 
 
 
 
-<p>For those of you who are especially appreciative of good Christmas food-- <a href="http://www.marthastewart.com/page.jhtml?type=content&amp;id=recipe2364&amp;page=&amp;dp=false&amp;layout=Print&amp;styleType=learn">enjoy</a>.&nbsp; It's a good thing.</p>
+<p>For those of you who are especially appreciative of good Christmas food-- <a href="https://www.marthastewart.com/333992/apple-cinnamon-matzo-brei">enjoy</a>.&nbsp; It's a good thing.</p>
 
 <p>Of course,&nbsp; <a href="http://bible.crosswalk.com/OnlineStudyBible/bible.cgi?new=1&amp;word=Matthew+4%3A4&amp;section=0&amp;version=nrs&amp;language=en">Matthew 4:4</a>.</p>
 
-<p>So, if you're still hungry, then what you really need is <a href="http://www.ntwrightpage.com/Wright_Sermon_Christmas05.htm">this</a>, courtesy of bishop N.T. Wright.</p>
+<p>So, if you're still hungry, then what you really need is <a href="https://www.christianitytoday.com/ct/2006/decemberweb-only/151-42.0.html">this</a>, courtesy of bishop N.T. Wright.</p>
 -----
 EXTENDED BODY:
 

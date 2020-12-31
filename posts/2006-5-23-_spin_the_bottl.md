@@ -28,7 +28,7 @@ While planning a worship service at Austin College in Sherman, Texas, one studen
 
 After the Invitation to the Lord’s Table, Eucharistic Prayer, and Words of Institution, a worshiper who was chosen before the service began, took an empty water bottle and spun it on the floor of the Chapel. When it came to a stop, the first worshiper and the worshiper toward whom the bottle was pointing met in the middle of the Chapel, exchanged the Mar Thoma Kiss of Peace, and then went to the communion table and served the Eucharist to each other.
 
-[![Screenhunter_004](/img/screenhunter_004.jpg "Screenhunter_004")](/img/shared/screenhunter_004.jpg)
+[![Screenhunter_004](https://worshiphelps.blogs.com/worship_helps/images/screenhunter_004.jpg "Screenhunter_004")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/screenhunter_004.jpg)
 
  Then the next worshiper spun the bottle and met the person toward whom it pointed in the middle of the Chapel. They exchanged the Mar Thoma Kiss of Peace and went to the Table and served the Sacrament to each other.
 

@@ -22,7 +22,7 @@ tags:
   - Prayer
   - post
 ---
-[![Screenhunter_002](/img/screenhunter_002.jpg "Screenhunter_002")](/img/shared/screenhunter_002.jpg) A wonderful way to make explicit the sacramental connection between our everyday life and its distillation in liturgy is to sing a variation on the Great Prayer over our ordinary meals. Chip Andrus, a pastor, teacher, and musician with the Office of Theology and Worship for the PC(USA) has written a lively folk prayer that works well for just this purpose.             
+[![Screenhunter_002](https://worshiphelps.blogs.com/worship_helps/images/screenhunter_002.jpg "Screenhunter_002")](/img/shared/screenhunter_002.jpg) A wonderful way to make explicit the sacramental connection between our everyday life and its distillation in liturgy is to sing a variation on the Great Prayer over our ordinary meals. Chip Andrus, a pastor, teacher, and musician with the Office of Theology and Worship for the PC(USA) has written a lively folk prayer that works well for just this purpose.             
 
 Sing upbeat, but not too fast—maybe 88 bpm. The song is syncopated throughout, but is notated more simply [here](/img/shared/CometotheTable.pdf) for easier learning. Once you’re familiar with it as written, attempt appropriate syncopation where you feel it (the third “come” in the first measure should slightly anticipate the third beat). If you have trouble, ask your kids for help. The song repeats the chorus a few times, and then concludes moving to the tonic and repeating “come.”
 

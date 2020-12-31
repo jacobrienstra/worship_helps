@@ -22,7 +22,7 @@ tags:
 ---
 Are we losing our sense of “awe”? I find myself overwhelmed by rocketing gas prices, by the helplessness I feel as I pass a group of homeless men sleeping in the 99 cents store parking lot late at night, and the discontent I feel as I watch my two brothers debilitated by cancer…both with young families. Where is God? Does He care?
 
-[![Worshipsenses](/img/worshipsenses.jpg "Worshipsenses")](/img/shared/worshipsenses.jpg) Then I happened upon Don Saliers’ book, [_Worship Comes to Its Senses_](http://www.amazon.com/gp/product/0687014581/ref=pd_bxgy_img_a/103-5407787-3041462?%5Fencoding=UTF8) (Abingdon Press, Nashville, 1996), which makes me come to my senses, changing my vantage point, to God’s perspective. I realized that my problems were larger than life because I did not think "highly" of God, I had lost my sense of awe. In Matthew 9, some friends bring their paralyzed friend to see Jesus. Jesus said to the man, “Get up, take your mat and go home” (Matt. 9:6). Then in verse 7, the crowd was “filled with awe, and they praised God”. The crowd's view of God was enlarged! They praise God with awe.
+[![Worshipsenses](https://worshiphelps.blogs.com/worship_helps/images/worshipsenses.jpg "Worshipsenses")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/worshipsenses.jpg) Then I happened upon Don Saliers’ book, [_Worship Comes to Its Senses_](http://www.amazon.com/gp/product/0687014581/ref=pd_bxgy_img_a/103-5407787-3041462?%5Fencoding=UTF8) (Abingdon Press, Nashville, 1996), which makes me come to my senses, changing my vantage point, to God’s perspective. I realized that my problems were larger than life because I did not think "highly" of God, I had lost my sense of awe. In Matthew 9, some friends bring their paralyzed friend to see Jesus. Jesus said to the man, “Get up, take your mat and go home” (Matt. 9:6). Then in verse 7, the crowd was “filled with awe, and they praised God”. The crowd's view of God was enlarged! They praise God with awe.
 
 Saliers encourages us to reconnect real life to the worship of the God of the Universe!
 
@@ -32,7 +32,7 @@ He accents Jaroslav Vajda’s new hymn “God of the Sparrow God of the Whale”
 
 \* \* \* \* \* \* \*
 
-    God of the sparrow God of the whale[![God_of_the_sparrow](/img/god_of_the_sparrow.jpg "God_of_the_sparrow")](http://www.amazon.com/gp/product/0819218723/qid=1149271598/sr=1-2/ref=sr_1_2/103-5407787-3041462?s=books&v=glance&n=283155)  
+    God of the sparrow God of the whale[![God_of_the_sparrow](http://worshiphelps.blogs.com/worship_helps/images/god_of_the_sparrow.jpg "God_of_the_sparrow")](http://www.amazon.com/gp/product/0819218723/qid=1149271598/sr=1-2/ref=sr_1_2/103-5407787-3041462?s=books&v=glance&n=283155)  
     God of the swirling stars  
     How does the creature say Awe  
     How does the creature say Praise

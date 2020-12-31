@@ -30,7 +30,7 @@ There's no other man who could raise the dead
 
 So do what you can to anoint my head"
 
-Stevens is a young artist (and Hope College Grad) who has gained notoriety for his plan to write an album about all 50 states.  "Michigan" and "Illinois" have been released, "Oregon"[![Sufjan](/img/sufjan.jpg "Sufjan")](/img/shared/sufjan.jpg)  is currently being researched.  Being an Episcopal, he no doubt approves of this liturgical use of his music.
+Stevens is a young artist (and Hope College Grad) who has gained notoriety for his plan to write an album about all 50 states.  "Michigan" and "Illinois" have been released, "Oregon"[![Sufjan](https://worshiphelps.blogs.com/worship_helps/images/sufjan.jpg "Sufjan")](/img/shared/sufjan.jpg)  is currently being researched.  Being an Episcopal, he no doubt approves of this liturgical use of his music.
 
 We interspersed the three verses with the reading of the Psalm and with times of instrumental music (comping).  We closed the time of Lament with the promises of scripture found at the end of Psalm 60 ("Give us aid against the enemy, for human help is worthless.  With God we will gain the victory...) and an almost a capella version of "O God, Our Help in Ages Past" (verse one only).  We led the entire section in the musical key of C major for ease of singability.
 
