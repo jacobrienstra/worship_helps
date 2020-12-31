@@ -16,7 +16,6 @@
     "axios": "^0.21.0",
     "bluebird": "^3.7.2",
     "js-yaml": "^3.14.0",
-    "mtif": "0.0.1",
     "stylelint": "^13.7.2",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-rational-order": "^0.1.2",
