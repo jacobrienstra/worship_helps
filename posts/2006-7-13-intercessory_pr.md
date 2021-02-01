@@ -20,7 +20,7 @@ tags:
   - Prayer
   - post
 ---
-[![Prayer2_1](https://worshiphelps.blogs.com/worship_helps/images/prayer2_1.gif "Prayer2_1")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/prayer2_1.gif)
+[![Prayer2_1](/img/prayer2_1.gif "Prayer2_1")](/img/shared/prayer2_1.gif)
 
 In some worshipping traditions, the "prayers of the people" are anything but.  The people don't do much praying at all-- they mostly endure the sincere but longish monologic ramblings of a pastor.  Those congregations who practice a bidding prayer fare a bit better, but their responses ("Hear our prayer, O Lord") can sometimes become dry and rote rather than heartfelt affirmation.  
   

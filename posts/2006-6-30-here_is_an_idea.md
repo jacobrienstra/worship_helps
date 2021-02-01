@@ -20,7 +20,7 @@ tags:
   - Ritual
   - post
 ---
-Here is an idea to strengthen you experience of baptismal renewal. Take a walk! [![River_2](https://worshiphelps.blogs.com/worship_helps/images/river_2.jpg "River_2")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/river_2.jpg)
+Here is an idea to strengthen you experience of baptismal renewal. Take a walk! [![River_2](https://worshiphelps.blogs.com/worship_helps/images/river_2.jpg "River_2")](/img/shared/river_2.jpg)
 
 This may not sound very revolutionary, but any movement at all in my congregation carries the threat of something going awry. Our large mainline congregation typically restricts its movement to arriving, standing, sitting, and departing. Now we are about to take a walk together past the baptismal waters as a sign of remembrance and renewal.
 

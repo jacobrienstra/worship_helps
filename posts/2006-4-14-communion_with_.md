@@ -39,7 +39,7 @@ tags:
   - Ritual
   - post
 ---
- [![Ccg](https://worshiphelps.blogs.com/worship_helps/images/ccg.jpg "Ccg")](/img/shared/ccg.jpg) I have always disliked serving communion in those little “shot glasses.” I’m sure there is an official name for them, but I’ve never learned it. The symbolism of rejecting a common cup in favor of individual serving sizes bothers me intensely. I’m just as bothered by the individual wafers for communion. In ordinary Lord’s Day worship, my congregation uses a common cup and a single loaf of bread, and we commune by intinction.
+ [![Ccg](/img/ccg.jpg "Ccg")](/img/shared/ccg.jpg) I have always disliked serving communion in those little “shot glasses.” I’m sure there is an official name for them, but I’ve never learned it. The symbolism of rejecting a common cup in favor of individual serving sizes bothers me intensely. I’m just as bothered by the individual wafers for communion. In ordinary Lord’s Day worship, my congregation uses a common cup and a single loaf of bread, and we commune by intinction.
 
 My problem, until now, has been that I could not figure out a good way to use a common cup with shut-ins. All of the little communion “travel kits” made for pastors – at least the ones I’ve seen – use the little cups. In the case of the homebound, the use of individual serving sizes is especially bothersome to me. After all, aren’t they already isolated enough?
 

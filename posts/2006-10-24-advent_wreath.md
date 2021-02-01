@@ -24,7 +24,7 @@ tags:
   - Visual Art
   - post
 ---
- [![Advent_wreath_marklin](/img/advent_wreath_marklin.jpg "Advent_wreath_marklin")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/advent_wreath_marklin.jpg) The season of Advent is the beginning of the church year. If you follow the lectionary readings for this season you will find that they are accounts of prophets proclaiming the coming of God’s kingdom and anticipation of the coming of the messiah. We re-live this anticipation through these texts, our music, and even the way creation enters more deeply into darkness until the passing of the winter solstice.
+ [![Advent_wreath_marklin](/img/t_wreath_marklin.jpg "Advent_wreath_marklin")](/img/shared/t_wreath_marklin.jpg) The season of Advent is the beginning of the church year. If you follow the lectionary readings for this season you will find that they are accounts of prophets proclaiming the coming of God’s kingdom and anticipation of the coming of the messiah. We re-live this anticipation through these texts, our music, and even the way creation enters more deeply into darkness until the passing of the winter solstice.
 
 \*\*\*
 

@@ -20,7 +20,7 @@ tags:
   - Drama
   - post
 ---
-[![Drama](https://worshiphelps.blogs.com/worship_helps/images/drama.jpg "Drama")](http://worshiphelps.blogs.com/.shared/image.html?/photos/uncategorized/drama.jpg) A bit of advice on using drama in worship, excerpted from a  forthcoming [publication](http://shop5.gospelcom.net/epages/FaithAlive.storefront/43e64e4908e91858271d45579e790668/Product/View/420031#full).
+[![Drama](/img/drama.jpg "Drama")](/img/shared/drama.jpg) A bit of advice on using drama in worship, excerpted from a  forthcoming [publication](http://shop5.gospelcom.net/epages/FaithAlive.storefront/43e64e4908e91858271d45579e790668/Product/View/420031#full).
 
 > “We need more drama in worship.  But drama of the right sort. Not a light-hearted warm-up to the sermon, not a subtlety-deficient morality lesson – a good hard thwack in the ethics – but something that does what drama does best: provoke and ask questions.  We need drama that genuinely invites the congregation into a space where the text and our unique lives intersect.
 > 

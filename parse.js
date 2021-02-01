@@ -6,11 +6,12 @@ const cheerio = require("cheerio");
 const Bluebird = require("bluebird");
 const axios = require("axios");
 const Path = require("path");
+const slug = require("slug");
 
 function getFileNameFromUri(uri) {
   const s = uri.split("/");
   const fname = s[s.length - 1];
-  return decodeURI(fname);
+  return decodeURI(fname).slice(-20);
 }
 
 let stream = mtif("blog.txt");
@@ -31,17 +32,30 @@ stream.on("entry", async function (entry) {
       Cheerio("img").toArray().concat(Cheerio("a").toArray()),
       async (el) => {
         if (el.name === "img") {
-          const imgSrc = Cheerio(el).attr("src");
+          let imgSrc = Cheerio(el).attr("src");
           const fileName = getFileNameFromUri(imgSrc);
           const imgPath = Path.resolve(__dirname, "img", fileName);
 
-          const imgResponse = await axios({
+          let imgResponse = await axios({
             method: "get",
             url: imgSrc,
             responseType: "stream",
-          }).catch(() => {});
+          }).catch((e) => {
+            imgSrc = imgSrc.replace("http://", "https://");
+            return axios({
+              method: "get",
+              url: imgSrc,
+              responseType: "stream",
+            }).catch((e) => {
+              console.log(imgSrc, `(${e.message})\n`);
+            });
+          });
 
-          if (imgResponse) {
+          if (
+            imgResponse &&
+            imgResponse.status >= 200 &&
+            imgResponse.status < 300
+          ) {
             imgResponse.data.pipe(fs.createWriteStream(imgPath));
 
             Cheerio(el).attr("src", imgPath.replace(__dirname, ""));
@@ -57,35 +71,43 @@ stream.on("entry", async function (entry) {
             });
           }
         } else if (el.name === "a") {
-          if (Cheerio(el).attr("href").includes("martha")) {
-            console.log("stop");
-          }
           let aHref = Cheerio(el).attr("href");
-          if (
-            /http(s)?:\/\/worshiphelps.blogs.com/.test(aHref) &&
-            /pdf$|jpg$|jpeg$|png$|gif$|mp3$|mid$|m4a$/.test(aHref)
-          ) {
-            aHref = aHref.replace(".shared/image.html?/", "");
-            const fileName = getFileNameFromUri(aHref);
-            const imgPath = Path.resolve(__dirname, "img/shared/", fileName);
-
-            const imgResponse = await axios({
+          if (aHref.startsWith("http")) {
+            const linkTest = await axios({
               method: "get",
               url: aHref,
               responseType: "stream",
-            }).catch((e) => {});
+            }).catch((e) => {
+              aHref = aHref.replace("http://", "https://");
+              return axios({
+                method: "get",
+                url: aHref,
+                responseType: "stream",
+              }).catch((e) => {
+                console.log(aHref, `(${e.message})\n`);
+              });
+            });
 
-            if (imgResponse) {
-              imgResponse.data.pipe(fs.createWriteStream(imgPath));
+            // Download any pictures currently hosted
+            if (
+              linkTest &&
+              linkTest.status >= 200 &&
+              linkTest.status < 300 &&
+              /http(s)?:\/\/worshiphelps.blogs.com/.test(aHref) &&
+              /pdf$|jpg$|jpeg$|png$|gif$|mp3$|mid$|m4a$/.test(aHref)
+            ) {
+              aHref = aHref.replace(".shared/image.html?/", "");
+              const fileName = getFileNameFromUri(aHref);
+              const imgPath = Path.resolve(__dirname, "img/shared/", fileName);
+              linkTest.data.pipe(fs.createWriteStream(imgPath));
 
               Cheerio(el).attr("href", imgPath.replace(__dirname, ""));
 
               await new Promise((resolve, reject) => {
-                imgResponse.data.on("end", () => {
+                linkTest.data.on("end", () => {
                   resolve();
                 });
-
-                imgResponse.data.on("error", () => {
+                linkTest.data.on("error", () => {
                   reject();
                 });
               });

@@ -7,7 +7,7 @@
     "serve": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
     "parse": "node parse.js",
-    "clean": "rm -rf ./_site/*"
+    "clean": "rm -rf ./_site/*; find ./img/ -type f -delete"
   },
   "keywords": [],
   "author": "",
@@ -30,6 +30,7 @@
     "cheerio": "^1.0.0-rc.3",
     "eleventy-plugin-sass": "^1.1.1",
     "moment": "^2.29.0",
+    "mtif": "0.0.1",
     "slug": "^4.0.2"
   }
 }
