@@ -20,7 +20,7 @@ tags:
   - Ritual
   - post
 ---
-Here is an idea to strengthen you experience of baptismal renewal. Take a walk! [![River_2](https://worshiphelps.blogs.com/worship_helps/images/river_2.jpg "River_2")](/img/shared/river_2.jpg)
+Here is an idea to strengthen you experience of baptismal renewal. Take a walk! [![River_2](/img/river_2.jpg "River_2")](/img/shared/river_2.jpg)
 
 This may not sound very revolutionary, but any movement at all in my congregation carries the threat of something going awry. Our large mainline congregation typically restricts its movement to arriving, standing, sitting, and departing. Now we are about to take a walk together past the baptismal waters as a sign of remembrance and renewal.
 
@@ -30,7 +30,7 @@ Placed in the context of Peter’s walk, our congregational journey will be just
 
 Children will be baptized at the start of our worship service. This exercise will be placed after the proclamation of the Word. It will be a remembrance of the baptismal act that further invites the congregation into the sacrament that was shared.
 
-![](file:///C:/DOCUME~1/RONRIE~1/LOCALS~1/Temp/moz-screenshot-3.jpg)Peter’s success came when his eyes were fixed on Christ. The challenge for us will be to lead with words of comfort and assurance that empower the congregation to take this minor risk of ardor. When we structure the event with order, it will become a moment of welcome and hospitality for the congregation to renew their spiritual life together.
+Peter’s success came when his eyes were fixed on Christ. The challenge for us will be to lead with words of comfort and assurance that empower the congregation to take this minor risk of ardor. When we structure the event with order, it will become a moment of welcome and hospitality for the congregation to renew their spiritual life together.
 
 Our congregation may not be filled with folks courageous enough to wade “in” the water. However, this wading “by” the water should be invitation enough to remember _who_ they are.
 

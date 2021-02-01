@@ -22,7 +22,7 @@ tags:
   - Technology
   - post
 ---
-Last week I finished writing a piece for Fuller Seminary's 3x-yearly magazine of theology & commentary, [Theology News & Notes](http://www.fuller.edu/news/pubs/tnn/2005_fall/index.htm). This particular issue's theme is the place of music in worship, and I was asked to contribute a piece on the effect of technology on worship music. My thesis, simply put, is a truism borrowed from the computer industry -- hardware drives software:
+Last week I finished writing a piece for Fuller Seminary's 3x-yearly magazine of theology & commentary, [Theology News & Notes](https://digitalcommons.fuller.edu/tnn/157/). This particular issue's theme is the place of music in worship, and I was asked to contribute a piece on the effect of technology on worship music. My thesis, simply put, is a truism borrowed from the computer industry -- hardware drives software:
 
 > As the church seeks to make the most of certain hardware technology – amplification, lyric projection, and looping DJ software, for example – we can expect that our worship software, i.e. the style of our worship itself, will also change. It may expand in potentially wonderful and creatively enculturated new ways, following the leading of the Holy Spirit. Or it may be narrowed in ways that are hip, but historically, and even theologically, suspect.
 

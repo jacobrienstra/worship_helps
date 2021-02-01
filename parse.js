@@ -21,119 +21,139 @@ stream.on("error", function (err) {
   console.log(err);
 });
 
-stream.on("entry", async function (entry) {
-  if (entry.body) {
-    var body = entry.body;
-    if (entry.extendedBody) {
-      body += "\n***\n" + entry.extendedBody;
-    }
-    const Cheerio = cheerio.load(body);
-    Bluebird.map(
-      Cheerio("img").toArray().concat(Cheerio("a").toArray()),
-      async (el) => {
-        if (el.name === "img") {
-          let imgSrc = Cheerio(el).attr("src");
-          const fileName = getFileNameFromUri(imgSrc);
-          const imgPath = Path.resolve(__dirname, "img", fileName);
+let posts = [];
 
-          let imgResponse = await axios({
-            method: "get",
-            url: imgSrc,
-            responseType: "stream",
-          }).catch((e) => {
-            imgSrc = imgSrc.replace("http://", "https://");
-            return axios({
+stream.on("entry", function (entry) {
+  posts.push(entry);
+});
+
+stream.on("end", function () {
+  parse(posts);
+});
+
+async function parse(entries) {
+  await Bluebird.each(entries, async (entry) => {
+    console.log(`Starting on ${entry.data.title}`);
+    if (entry.body) {
+      var body = entry.body;
+      if (entry.extendedBody) {
+        body += "\n***\n" + entry.extendedBody;
+      }
+      const Cheerio = cheerio.load(body);
+      await Bluebird.mapSeries(
+        Cheerio("img").toArray().concat(Cheerio("a").toArray()),
+        async (el) => {
+          if (el.name === "img") {
+            let imgSrc = Cheerio(el).attr("src");
+            let fileName = getFileNameFromUri(imgSrc);
+            const imgPath = Path.resolve(__dirname, "img", fileName);
+            if (!/pdf$|jpg$|jpeg$|png$|gif$|mp3$|mid$|m4a$/.test(fileName)) {
+              fileName = `${fileName}.png`;
+            }
+
+            // download all pictures for us
+            let imgResponse = await axios({
               method: "get",
               url: imgSrc,
               responseType: "stream",
             }).catch((e) => {
-              console.log(imgSrc, `(${e.message})\n`);
-            });
-          });
-
-          if (
-            imgResponse &&
-            imgResponse.status >= 200 &&
-            imgResponse.status < 300
-          ) {
-            imgResponse.data.pipe(fs.createWriteStream(imgPath));
-
-            Cheerio(el).attr("src", imgPath.replace(__dirname, ""));
-
-            await new Promise((resolve, reject) => {
-              imgResponse.data.on("end", () => {
-                resolve();
-              });
-
-              imgResponse.data.on("error", () => {
-                reject();
-              });
-            });
-          }
-        } else if (el.name === "a") {
-          let aHref = Cheerio(el).attr("href");
-          if (aHref.startsWith("http")) {
-            const linkTest = await axios({
-              method: "get",
-              url: aHref,
-              responseType: "stream",
-            }).catch((e) => {
-              aHref = aHref.replace("http://", "https://");
+              imgSrc = imgSrc.replace("http://", "https://");
               return axios({
                 method: "get",
-                url: aHref,
+                url: imgSrc,
                 responseType: "stream",
               }).catch((e) => {
-                console.log(aHref, `(${e.message})\n`);
+                console.log(imgSrc, `(${e.message})\n`);
               });
             });
 
-            // Download any pictures currently hosted
             if (
-              linkTest &&
-              linkTest.status >= 200 &&
-              linkTest.status < 300 &&
-              /http(s)?:\/\/worshiphelps.blogs.com/.test(aHref) &&
-              /pdf$|jpg$|jpeg$|png$|gif$|mp3$|mid$|m4a$/.test(aHref)
+              imgResponse &&
+              imgResponse.status >= 200 &&
+              imgResponse.status < 300
             ) {
-              aHref = aHref.replace(".shared/image.html?/", "");
-              const fileName = getFileNameFromUri(aHref);
-              const imgPath = Path.resolve(__dirname, "img/shared/", fileName);
-              linkTest.data.pipe(fs.createWriteStream(imgPath));
+              await imgResponse.data.pipe(fs.createWriteStream(imgPath));
 
-              Cheerio(el).attr("href", imgPath.replace(__dirname, ""));
+              Cheerio(el).attr("src", imgPath.replace(__dirname, ""));
 
               await new Promise((resolve, reject) => {
-                linkTest.data.on("end", () => {
+                imgResponse.data.on("end", () => {
                   resolve();
                 });
-                linkTest.data.on("error", () => {
+
+                imgResponse.data.on("error", () => {
                   reject();
                 });
               });
             }
+          } else if (el.name === "a") {
+            let aHref = Cheerio(el).attr("href");
+            aHref = aHref.replace(".shared/image.html?/", "");
+            if (aHref.startsWith("http")) {
+              const linkTest = await axios({
+                method: "get",
+                url: aHref,
+                responseType: "stream",
+              }).catch((e) => {
+                aHref = aHref.replace("http://", "https://");
+                return axios({
+                  method: "get",
+                  url: aHref,
+                  responseType: "stream",
+                }).catch((e) => {
+                  console.log(aHref, `(${e.message})\n`);
+                });
+              });
+
+              // Download any pictures currently hosted
+              if (
+                linkTest &&
+                linkTest.status >= 200 &&
+                linkTest.status < 300 &&
+                /http(s)?:\/\/worshiphelps.blogs.com/.test(aHref) &&
+                /pdf$|jpg$|jpeg$|png$|gif$|mp3$|mid$|m4a$/.test(aHref)
+              ) {
+                const fileName = getFileNameFromUri(aHref);
+                const imgPath = Path.resolve(
+                  __dirname,
+                  "img/shared/",
+                  fileName
+                );
+                await linkTest.data.pipe(fs.createWriteStream(imgPath));
+
+                Cheerio(el).attr("href", imgPath.replace(__dirname, ""));
+
+                await new Promise((resolve, reject) => {
+                  linkTest.data.on("end", () => {
+                    resolve();
+                  });
+                  linkTest.data.on("error", () => {
+                    reject();
+                  });
+                });
+              }
+            }
           }
         }
-      }
-    ).then(() => {
-      let body = Cheerio.html();
-      if (entry.data.status === "Publish") {
-        let [month, date, year] = entry.data.date
-          .toLocaleDateString()
-          .split("/");
-        body = service.turndown(body);
-        let permalink = entry.data.uniqueUrl.replace(
-          "https://worshiphelps.blogs.com",
-          ""
-        );
-        let path = entry.data.uniqueUrl
-          .split("/")
-          .pop()
-          .replace(".html", "")
-          .trim();
-        fs.writeFileSync(
-          `posts/${year}-${month}-${date}-${path}.md`,
-          `---
+      ).then(() => {
+        let body = Cheerio.html();
+        if (entry.data.status === "Publish") {
+          let [month, date, year] = entry.data.date
+            .toLocaleDateString()
+            .split("/");
+          body = service.turndown(body);
+          let permalink = entry.data.uniqueUrl.replace(
+            "https://worshiphelps.blogs.com",
+            ""
+          );
+          let path = entry.data.uniqueUrl
+            .split("/")
+            .pop()
+            .replace(".html", "")
+            .trim();
+          fs.writeFileSync(
+            `posts/${year}-${month}-${date}-${path}.md`,
+            `---
 layout: post.pug
 permalink: ${permalink}
 ${jsyaml.safeDump(
@@ -144,10 +164,10 @@ ${jsyaml.safeDump(
   })
 )}---
 ${body}`
-        );
-      }
-    });
-  }
-});
-
-stream.on("end", function () {});
+          );
+        }
+      });
+    }
+    console.log(`Finished ${entry.data.title}`);
+  });
+}

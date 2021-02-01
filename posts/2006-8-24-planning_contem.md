@@ -20,4 +20,4 @@ tags:
   - Ordo
   - post
 ---
-For a fine article about 'contemporary' worship -- structure, style, planning, etc. -- that features some of the authors of this blog, click [here](http://www.calvin.edu/worship/stories/contemp_wrshp.php).
+For a fine article about 'contemporary' worship -- structure, style, planning, etc. -- that features some of the authors of this blog, click [here](https://worship.calvin.edu/resources/resource-library/planning-contemporary-worship-services).

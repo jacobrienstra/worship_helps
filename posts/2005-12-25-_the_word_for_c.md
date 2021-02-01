@@ -22,7 +22,7 @@ tags:
   - Theme
   - post
 ---
-[![Matzobrei](/img/itok%3DylIYYbql&q=85 "Matzobrei")](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fassets.marthastewart.com%2Fstyles%2Fwmax-300%2Fd16%2Fgt068_matzobrei2%2Fgt068_matzobrei2_vert.jpg%3Fitok%3DylIYYbql&q=85)
+[![Matzobrei](/img/_matzobrei2_vert.jpg "Matzobrei")](https://assets.marthastewart.com/styles/wmax-300/d16/gt068_matzobrei2/gt068_matzobrei2_vert.jpg)
 
 For those of you who are especially appreciative of good Christmas food-- [enjoy](https://www.marthastewart.com/333992/apple-cinnamon-matzo-brei).  It's a good thing.
 

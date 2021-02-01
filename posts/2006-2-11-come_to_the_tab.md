@@ -30,4 +30,4 @@ This wonderfully percussive tune works best antiphonally. When the meal is almos
 
 It’s especially fitting to pray following a classic prayer pattern, like a collect. So, for instance, begin by (1) addressing God and naming one of God’s attributes (“God, you are . . .”); then (2) speak a word of thanks and/or make an appeal rooted in that attribute (“we thank you for/help us to . . .”); finally, (3) express an aspiration rooted in God’s character, an outcome that makes sense of the request (“so that we might . . .”). For example, (1) Lord Jesus, you said that wherever two or three are gathered together, you are with them. (2) We thank you, then, for this good food, for those who made it, for each other, and for your presence with us as we eat. Open our eyes to see you at this table, (3) so that we might more easily see you when we leave it.
 
-(For more table graces for the home, see [here](http://www.reformedworship.org/cprw_rw76_table.htm).)
+(For more table graces for the home, see [here](https://www.reformedworship.org/article/june-2005/table-graces-connecting-sung-prayers-church-meal-prayers-home).)

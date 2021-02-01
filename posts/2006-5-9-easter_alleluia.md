@@ -31,5 +31,3 @@ tags:
 All of this reminded me of a time when my congregation practiced a fast from the use of the word "Alleluia" throughout the season of Lent in anticipation of its exuberant reintroduction to worship on Easter Sunday.  Throughout the forty days, we still sang songs with "alleluia" in the lyrics, but self-consciously hummed "mm-mm-MM-mm" instead. 
 
 Meanwhile, the young children of the church spent one of their education hours creating colorful construction paper butterflies, decorated abundantly with the word "Alleluia."   These were then crafted into a beautiful mobile, which debuted on Easter morning hanging high over the communion table, pointing to new life in Christ.  Alleluia!  He is risen!
-
-![](file:///C:/DOCUME~1/RONRIE~1/LOCALS~1/Temp/moz-screenshot-2.jpg)

@@ -38,7 +38,7 @@ We learned about the “Mar Thoma” Kiss of Peace from an Austin College studen
 
   
 
-![](file:///C:/DOCUME~1/RONRIE~1/LOCALS~1/Temp/msohtml1/01/clip_image002.jpg) To exchange the Mar Thoma Kiss of Peace, two worshipers face each other, extend their hands forward, and then touch hands so that the right hand of each worshiper is between the palms of the two hands of the other. One worshiper then says, “The peace of Christ be with you,” and the other responds, “And also with you.”
+To exchange the Mar Thoma Kiss of Peace, two worshipers face each other, extend their hands forward, and then touch hands so that the right hand of each worshiper is between the palms of the two hands of the other. One worshiper then says, “The peace of Christ be with you,” and the other responds, “And also with you.”
 
   
 

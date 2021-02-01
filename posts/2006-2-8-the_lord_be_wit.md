@@ -20,7 +20,7 @@ tags:
   - Music
   - post
 ---
-[![TLBWY.opening](/img/b8d21a28be970c-120wi "TLBWY.opening")](http://worshiphelps.blogs.com/.a/6a00d8341c423653ef01b8d21a28be970c-popup)A few years ago, my worship team tackled the question of how to begin our 'contemporary' worship services.  Sometimes the band would just walk up front and begin to play. Sometimes there'd be a time of teaching new music.   Sometimes there would be a song that felt like a prelude.  Other times there were announcements. 
+[![TLBWY.opening](/img/b8d21a28be970c-120wi "TLBWY.opening")](/img/lbwy.png)A few years ago, my worship team tackled the question of how to begin our 'contemporary' worship services.  Sometimes the band would just walk up front and begin to play. Sometimes there'd be a time of teaching new music.   Sometimes there would be a song that felt like a prelude.  Other times there were announcements. 
 
 We wanted to create a dramatic launch to the service ("Here we go!") without succumbing to the cultural forces that pull us toward making the whole thing an entertaining show ("Ladies and Gentlemen!  Your attention please!")
 

@@ -38,4 +38,4 @@ One family testified of their confab at which they discussed what to do with the
 
 File this one as a fabulous theological connection between life and liturgy.
 
-(artwork courtesy [http://www.eichgallery.abelgratis.com](http://www.eichgallery.abelgratis.com))
+(artwork courtesy [http://www.eichgallery.org/ianpollock/ipfinal/p10.html](http://www.eichgallery.org/ianpollock/ipfinal/p10.html))

@@ -20,9 +20,9 @@ tags:
   - Music
   - post
 ---
-[![Andrewd](https://worshiphelps.blogs.com/worship_helps/images/andrewd.jpg "Andrewd")](/img/shared/andrewd.jpg) First, some words of introduction. This will serve not only to let you know something about me - Andrew Donaldson -- but also to introduce some of the subject areas that I am passionate about.
+[![Andrewd](/img/andrewd.jpg "Andrewd")](/img/shared/andrewd.jpg) First, some words of introduction. This will serve not only to let you know something about me - Andrew Donaldson -- but also to introduce some of the subject areas that I am passionate about.
 
-I am Pastoral Musician and Worship Enlivener (more on that title in a moment) at [Trafalgar Presbyterian Church](http://www.trafalgarchurch.ca/) in Oakville, Ontario, Canada. I am currently President of the [Hymn Society in the US and Canada](http://www.thehymnsociety.org/).   And along with my wife, I am part of [Hilariter](http://www.hilariter.ca/index.html), an inter-denominational group of singers and players, based in Toronto, Canada, committed to diversity in worship and to exploring the worship resources available from around the world.
+I am Pastoral Musician and Worship Enlivener (more on that title in a moment) at [Trafalgar Presbyterian Church](http://www.trafalgarchurch.ca/) in Oakville, Ontario, Canada. I am currently President of the [Hymn Society in the US and Canada](http://www.thehymnsociety.org/).   And along with my wife, I am part of [Hilariter](http://www.andrewdonaldson.ca/hilariter/), an inter-denominational group of singers and players, based in Toronto, Canada, committed to diversity in worship and to exploring the worship resources available from around the world.
 
 I am a lapsed (and recently re-activated) percussionist with a background in choral music, composition and classical guitar. I'm also a student of the renaissance lute.
 
@@ -34,7 +34,7 @@ Over the course of twenty years, we found that this had transformed several key 
 
 Second, the role of the choir had become something different. It could still offer a Tallis motet or a Gibbons verse anthem, but it could also lead the congregation in a Zulu church song, or an African American spiritual. It featured instrumentalists as well as singers: flute, violin, cello, concertina, recorders, percussion, guitar, and many others. It had also grown from being a performing choir into a group of music leaders that nurtured the song of the congregation.
 
-Third, my own role had changed, and for a while we didn't have a name for it. It wasn't until [Michael Hawn](http://www.choristersguild.org/hawn.html), from Perkins School of Theology at SMU in Dallas, came to worship with us at Beaches Church in the fall of 2003, that we realized that my role had become that of an “animateur” or an “enlivener”. This is a term proposed by Michael Warren, a Roman Catholic educator, quoted in Dr. Hawn's book “[One Bread, One Body](http://www.amazon.com/gp/product/156699277X/sr=8-1/qid=1147747204/ref=pd_bbs_1/103-5407787-3041462?%5Fencoding=UTF8)” (Alban Institute 2003).
+Third, my own role had changed, and for a while we didn't have a name for it. It wasn't until [Michael Hawn](https://www.choristersguild.org/document//160/), from Perkins School of Theology at SMU in Dallas, came to worship with us at Beaches Church in the fall of 2003, that we realized that my role had become that of an “animateur” or an “enlivener”. This is a term proposed by Michael Warren, a Roman Catholic educator, quoted in Dr. Hawn's book “[One Bread, One Body](http://www.amazon.com/gp/product/156699277X/sr=8-1/qid=1147747204/ref=pd_bbs_1/103-5407787-3041462?%5Fencoding=UTF8)” (Alban Institute 2003).
 
 When I moved to my current church just outside of Toronto, we decided that this word “enlivener” should be part of my title. We find that it stimulates ongoing discussion on my role in the music and worship of the community.
 
