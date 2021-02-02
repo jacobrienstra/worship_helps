@@ -63,10 +63,6 @@ tags:
 ---
 This is an article that featured Todd Johnson and Ed Willmington address the question "What is Worship?"  It helps to get inside of the heads of these two worship gurus.
 
-http://www.fuller.edu/news/html/pastors\_bkfst1106.asp
-
-Guy
-
 **Pastors’ Gathering Explores Worship Issues**  
   
 Worship was the topic of Fuller’s semiannual President’s Breakfast for Pastors held Thursday, November 9, with speakers Todd Johnson and Ed Willmington, both of the Brehm Center for Worship, Theology, and the Arts. More than 100 attended the event in Payton Hall.  
